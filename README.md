@@ -1,2 +1,5 @@
 # moocfetcher-scripts
-Useful scripts
+Useful scripts.
+
+### download-courses
+Scripts to download Coursera courses in bulk.
