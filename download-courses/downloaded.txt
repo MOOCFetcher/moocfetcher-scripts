@@ -73,6 +73,7 @@ big-ideas
 bigdata-analytics
 bim-sumo
 bim-yingyong
+bioinformatics
 bioinformatics-methods-1
 bioinformatics-methods-2
 bioinformatics-pku
@@ -126,6 +127,7 @@ climate-change-mitigation
 clinical-kidney-transplantation
 clinical-research
 clinical-trials
+coaching-expectations-performance
 coaching-teachers
 codapps
 college-life
@@ -276,6 +278,7 @@ evolvinguniverse
 experimental-methods
 experimentation
 exploratory-data-analysis
+explorelight
 exposure-photography
 fe-exam
 feedback
@@ -293,6 +296,7 @@ firm-level-economics
 firm-level-economics-markets
 fisica-universitaria
 fixing-healthcare
+fizika-v-opitah-elektrichestvo-i-magnetizm
 fizika-v-opitah-mehanika
 food-and-health
 food-beverage-management
@@ -460,6 +464,7 @@ jiegou-fangcheng-moxing
 jisuanji-biancheng
 jisuanji-caozuo-xitong
 jisuanji-wangluo
+jisuanji-xitong
 jisuanji-zucheng
 k-12-education
 kangjunyao-chaojixijun
@@ -718,6 +723,7 @@ ruby-on-rails-web-services-mongodb
 russian
 scanfilmtv
 schedule-projects
+scholarly-communication
 science-of-meditation
 screening
 script-writing
@@ -828,6 +834,7 @@ video-game-character
 video-game-story
 video-game-world
 videogames
+videojuegos-3d-unity
 videojuegos-animation
 videojuegos-diseno
 videojuegos-emprendimiento
