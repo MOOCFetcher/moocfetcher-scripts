@@ -5,3 +5,6 @@ crypto
 security
 home-care
 learning-how-to-learn
+gastronomy
+language-coordinator
+
