@@ -504,9 +504,11 @@ healthcare-medical-technology
 healthcarejobs
 hebrew-poetry
 hesap-calculus-dersi
+high-throughput
 hipython
 historical-fiction
 history-israel-part-1
+history-of-graphic-design
 history-of-rock
 history-of-rock-2
 holocaust-introduction-1
@@ -533,6 +535,7 @@ ignite-creativity
 ilob
 image-making
 impact-investing-etre-acteur
+impactinvestinginnover
 importance-of-listening
 income-statement
 increase-reach
@@ -708,6 +711,7 @@ marketing-plan
 marketingverde
 mastering-bitumen
 material-behavior
+material-informatics
 material-science-engineering
 materials-science
 materials-structures
@@ -754,6 +758,7 @@ molecular-evolution
 mom1
 monde-action
 moral-politics
+moralities
 more-chinese-for-beginners
 moses
 mosfet
@@ -786,6 +791,7 @@ negotiation
 negotiation-skills
 network-biology
 networks-illustrated
+networksonline
 neuroeconomics
 newbusinessmodel
 newnordicdiet
@@ -793,6 +799,7 @@ nonprofit-gov-1
 nonprofit-gov-2
 nonprofit-gov-3
 nonviolence
+norms
 nsu-genetics
 nsu-virology
 nube-ios
@@ -811,6 +818,7 @@ ordenamiento-datos
 organic-chemistry
 orgology
 orientacao-a-objetos-com-java
+origensdavida
 origins-universe-solarsystem
 pai-she
 pap
@@ -995,6 +1003,7 @@ sitedance
 smart-growth-strategy-1
 smart-growth-strategy-2
 smartphone-emerging-technologies
+smm-osnovy
 smm-platformy
 social-computing
 social-imc
@@ -1113,6 +1122,7 @@ upravlenie-lichnymi-finansami
 upravlinnya-chasom
 urban-education
 usable-security
+user-experience-design
 user-research
 va-health-care
 valuation

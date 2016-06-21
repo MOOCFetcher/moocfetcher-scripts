@@ -218,6 +218,7 @@ creatividad
 creativity-innovation
 critical-management
 cryo-em
+crypto
 cryptography
 cs-tech-interview
 csharp-gaoji-biancheng-fangfa
@@ -779,6 +780,7 @@ papers-molecular-genetics
 parallelnoye-programmirovaniye
 parprog1
 partenariats-qui-changent-le-monde
+passport-to-india
 patrocinio-deportivo
 pds
 pensamiento-sistemico
