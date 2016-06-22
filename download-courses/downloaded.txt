@@ -513,6 +513,7 @@ history-of-rock
 history-of-rock-2
 holocaust-introduction-1
 holocaust-introduction-2
+home-care
 horse-care
 hotel-distribution
 how-things-work
@@ -589,6 +590,7 @@ intro-programming
 intro-redes-sociales
 intro-sig-1
 intro-to-big-data
+intro-to-big-data-clone
 introclassicalmusic
 introcss
 introduccion-al-calculo
@@ -610,6 +612,7 @@ iosappdevelopmentbasics
 iosswift
 iot
 iot-augmented-reality-technologies
+iot-software-architecture
 istoriya-izobretenii-i-otkritii
 java-chengxu-sheji
 java-programming
@@ -637,6 +640,7 @@ khanacademy
 kierkegaard
 kolebanija-i-molekuljarnaja-fizika
 kombinatorika-dlya-nachinayushchikh
+kongzi
 korean-economy
 kuaisu-xuexi
 kunqu-opera
@@ -657,6 +661,7 @@ leading-teams
 learn-chinese
 learn-korean
 learning-assessment
+learning-how-to-learn
 learning-skills
 learntomod
 lesson-design
@@ -672,9 +677,11 @@ ma-ke-si
 machine-learning
 machine-learning-data-analysis
 machinelearningwithbigdata
+machinelearningwithbigdata-clone
 macondo-gabriel-garcia-marquez
 macroeconomia-pt
 mafash
+magnetics-power-electronic-converters
 make-comic-books
 management-philosophy
 managerial-accounting
@@ -690,6 +697,7 @@ managing-team-agile
 managingmoney
 market-analytics
 market-efficiency
+market-infrastructure-mechanisms-technology-of-investing
 market-power
 market-research
 market-structure
@@ -697,10 +705,12 @@ marketing-analitico
 marketing-analytics
 marketing-channels
 marketing-digital
+marketing-iese
 marketing-plan
 marketingverde
 mastering-bitumen
 material-behavior
+material-informatics
 material-science-engineering
 materials-science
 materials-structures
@@ -714,13 +724,16 @@ mecanique-solide
 mechanics-1
 mechanics-particles-planets
 mechanics2
+medical-neuroscience
 mediterraneanhistory
 meeting-investors-goals
 memory-and-movies
+mencius2
 mercadotecnia
 mercadotecnia-sociales
 meteor-development
 microbiome
+microeconomics
 microeconomics-part1
 microeconomics-part2
 ml-classification
@@ -744,6 +757,7 @@ molecular-evolution
 mom1
 monde-action
 moral-politics
+moralities
 more-chinese-for-beginners
 moses
 mosfet
@@ -776,6 +790,7 @@ negotiation
 negotiation-skills
 network-biology
 networks-illustrated
+networksonline
 neuroeconomics
 newbusinessmodel
 newnordicdiet
@@ -783,6 +798,7 @@ nonprofit-gov-1
 nonprofit-gov-2
 nonprofit-gov-3
 nonviolence
+norms
 nsu-genetics
 nsu-virology
 nube-ios
@@ -792,6 +808,7 @@ objective-c
 obstaculos-negociaciones
 ocenka-stoimosti-kompanii
 oilandgas
+onlinegames
 operations-management
 operations-strategy
 optimizing-web-search
@@ -799,7 +816,9 @@ ordenamiento-datos
 organic-chemistry
 orgology
 orientacao-a-objetos-com-java
+origensdavida
 origins-universe-solarsystem
+pai-she
 pap
 papers-molecular-genetics
 parallelnoye-programmirovaniye
@@ -821,6 +840,7 @@ philanthropist
 philosophy
 photocourse2
 photocourse3
+photocourse4
 photography
 physical-chemistry
 physics-global-project
@@ -835,11 +855,13 @@ political-philosophy
 political-philosophy-2
 politika-sravnitelnaja
 popularity
+population-health
 portfolio-management
 portfolio-risk-management
 positive-psychology
 power-electronics
 poweronboarding
+pppefficace
 practical-machine-learning
 prcampaign
 pregnancychildbirth
@@ -906,6 +928,7 @@ razrabotka-korporativnih-sistem-modeli-jiznennogo-cikla
 razrabotka-korporativnih-sistem-strogie-metodologii-razrabotki
 real-life-data-science
 real-time-systems
+recherche-documentaire
 recommender-systems
 recruiting-hiring-onboarding-employees
 red-social
@@ -944,6 +967,7 @@ ruanjian-ceshi
 ruanjian-gongcheng
 ruby-on-rails-intro
 ruby-on-rails-web-services-mongodb
+ruhe-xuexi
 running-design-sprints
 russian
 satellitecommunications
@@ -951,10 +975,13 @@ scanfilmtv
 schedule-projects
 scholarly-communication
 science-of-meditation
+scigast
 screening
 script-writing
 search-engine-optimization
+security
 seo-fundamentals
+seo-tactics
 server-side-development
 sexualidad
 shaonian-fuli
@@ -974,6 +1001,7 @@ sitedance
 smart-growth-strategy-1
 smart-growth-strategy-2
 smartphone-emerging-technologies
+smm-osnovy
 smm-platformy
 social-computing
 social-imc
@@ -992,17 +1020,21 @@ soulbeliefs3
 speak-english-professionally
 sports-society
 spss-ruanjian
+sql-server-shujuku-jishu
 start-your-own-business-2-ideation
 start-your-own-business-3-planning
+start-your-own-business-4-structure
 startup-entrepreneurship-discovering-ideas
 startup-entrepreneurship-from-idea-to-startup
 startup-funding
+startup-idea
 startup-technologique
 startupfinancewithoutvc
 stathermo
 statistical-genomics
 statistical-inference
 statistical-mechanics
+statistical-reasoning-1
 statistical-thermodynamics
 stats-for-data-analysis
 strategic-business-analytics
@@ -1036,6 +1068,7 @@ synapses
 systematic-review
 systems-biology
 systems-engineering
+systems-science-obesity
 systems-thinking
 taknulujia-alnnanu1
 taknulujia-alnnanu2
@@ -1088,6 +1121,7 @@ upravlenie-lichnymi-finansami
 upravlinnya-chasom
 urban-education
 usable-security
+user-experience-design
 user-research
 va-health-care
 valuation
@@ -1117,6 +1151,7 @@ web-application-development
 web-frameworks
 web-semantica
 webapps1
+webapps1-espanol
 website-coding
 wei-dian-ying
 wharton-accounting

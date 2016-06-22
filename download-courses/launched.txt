@@ -219,7 +219,6 @@ corporate-finance-essentials
 correccion
 country-level-economics
 country-level-economics-policies
-course-design
 cpp-chengxu-sheji
 craft-of-character
 craft-of-plot
@@ -573,7 +572,6 @@ international-criminal-law
 international-entertainment-sports-marketing
 international-hospitality-healthcare-services-marketing
 international-law-in-action
-international-marketing
 international-marketing-entry-execution
 international-taxation
 internet-history
@@ -645,7 +643,6 @@ kongzi
 korean-economy
 kuaisu-xuexi
 kunqu-opera
-language-coordinator
 language-theories
 latex
 lavenir-de-la-decision
@@ -813,7 +810,6 @@ onlinegames
 operations-management
 operations-strategy
 optimizing-web-search
-optobotics
 ordenamiento-datos
 organic-chemistry
 orgology
