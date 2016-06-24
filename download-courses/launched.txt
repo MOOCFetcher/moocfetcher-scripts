@@ -134,6 +134,7 @@ business-english-negotiating
 business-growth-strategy
 business-model-canvas
 business-of-social
+business-statistics-2
 business-writing
 business-writinges
 businessinsociety
@@ -159,6 +160,7 @@ causaleffects
 cennye-bumagi-pravovoe-regulirovanie
 chang-jian-man-xing-bing
 change-for-the-finance-professional
+changetheworld
 channel-management
 chemicals-health
 chemistry-1
@@ -219,6 +221,7 @@ corporate-finance-essentials
 correccion
 country-level-economics
 country-level-economics-policies
+course-design
 cpp-chengxu-sheji
 craft-of-character
 craft-of-plot
@@ -310,6 +313,7 @@ ecologie
 economic-growth-part-1
 economic-growth-part-2
 economic-policy
+economics-transition-emerging-markets
 economie-sol-immobilier-2
 economy-russia-transition
 ecosol1
@@ -1041,6 +1045,7 @@ strategic-management
 strategic-planning-execution
 strategic-self-marketing-personal-branding
 strategy-business
+strategy-corporate
 strategy-formulation
 strategy-implementation
 strategy-law-ethics
