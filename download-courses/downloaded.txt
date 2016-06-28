@@ -13,6 +13,7 @@ accounting-iese
 active-and-passive-portfolio-investment
 addiction-and-the-brain
 adhd-everyday-strategies
+adjective-clauses
 administracion-estrategica
 adolescenthealth
 advanced-business-strategy
@@ -788,6 +789,7 @@ nanotechnology2
 nauchno-texnicheski-text
 negociacao
 negociacion
+negociation
 negocios-internacionales1
 negocios-internacionales2
 negotiation
