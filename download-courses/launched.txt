@@ -132,6 +132,7 @@ business-english-for-cross-cultural-communication
 business-english-intro
 business-english-meetings
 business-english-negotiating
+business-english-presentations
 business-growth-strategy
 business-model-canvas
 business-of-social
@@ -187,6 +188,7 @@ clinical-research
 clinical-trials
 clinicalepidemiology
 cloud-computing
+cloud-computing-2
 coaching-expectations-performance
 coaching-practices
 coaching-teachers
@@ -202,6 +204,7 @@ como-autoconstruir-tu-vivienda
 como-financiar-mi-empresa
 company-future-management
 company-valuation
+comparch
 comparing-genomes
 competitivestrategy
 competitivestrategyzh
@@ -420,6 +423,7 @@ fluid-power
 food-and-health
 food-beverage-management
 forensic-accounting
+forensic-science
 foundations-business-strategy
 foundations-marketing-analytics
 french-revolution
@@ -718,6 +722,7 @@ material-science-engineering
 materials-science
 materials-structures
 mathematics-and-python
+mathematics-sport
 matlab
 max-weber
 mecanique-lagrangienne
@@ -740,6 +745,7 @@ microeconomics
 microeconomics-part1
 microeconomics-part2
 ml-classification
+ml-clustering-and-retrieval
 ml-foundations
 ml-regression
 mobile-robot
@@ -796,6 +802,7 @@ network-biology
 networks-illustrated
 networksonline
 neuroeconomics
+neurohacking
 newbusinessmodel
 newnordicdiet
 nonprofit-gov-1
@@ -862,6 +869,7 @@ popularity
 population-health
 portfolio-management
 portfolio-risk-management
+positioning
 positive-psychology
 power-electronics
 poweronboarding
@@ -887,6 +895,7 @@ process-improvement
 process-mining
 produccionycomposicion
 producing-music
+professional-brand
 professional-emails
 professional-emails-english
 professional-identity
@@ -1030,6 +1039,7 @@ start-your-own-business-3-planning
 start-your-own-business-4-structure
 startup-entrepreneurship-discovering-ideas
 startup-entrepreneurship-from-idea-to-startup
+startup-entrepreneurship-innovation-career-lessons
 startup-funding
 startup-idea
 startup-technologique
@@ -1094,6 +1104,7 @@ teaching-strategies
 tech-startup
 technology-commercialization
 technology-of-music-production
+tecnicas-microscopicas-caracterizacion
 terrorism
 tesol-writing
 tesoros-de-la-fisica
