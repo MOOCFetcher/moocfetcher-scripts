@@ -91,6 +91,7 @@ aulaconstructivista
 autism-spectrum-disorder
 bacteria
 basic-statistics
+bayesian-statistics
 beam-bending
 become-a-journalist3
 become-a-journalist4
@@ -190,6 +191,7 @@ clinical-trials
 clinicalepidemiology
 cloud-computing
 cloud-computing-2
+coaching-conversations
 coaching-expectations-performance
 coaching-practices
 coaching-teachers
@@ -267,6 +269,7 @@ datavisualization
 datos-tecnicas
 decentralization-africa
 decodificando-silicon-valley
+deductive-reasoning
 demandmanagement
 democracia
 dental-medicine-penn
@@ -288,6 +291,7 @@ differentiation-calculus
 digital
 digital-analytics
 digital-democracy
+digital-storytelling
 digitalmedia
 disability-awareness
 disaster-preparedness
@@ -300,6 +304,7 @@ dog-emotion-and-cognition
 dopage
 doping
 droits-de-lhomme
+duke-behavioral-finance
 duke-programming-web
 dwbizintelligence
 dwdesign
@@ -329,6 +334,7 @@ effectuation
 egypt
 ekonometrika
 ekonomicheskaya-sociologiya
+ekonomika-dlya-neekonomistov
 elearning
 electrical-circuits
 electrones-en-accion
@@ -396,6 +402,7 @@ exploratory-data-analysis
 explorelight
 exposure-photography
 extracellular-potentials
+family-planning
 fast-track-finance-1
 fe-exam
 feedback
@@ -413,6 +420,7 @@ financial-statements
 financialanalysis
 finansy
 finanzas-personales
+fire-effect
 firm-level-economics
 firm-level-economics-markets
 fisica-universitaria
@@ -475,6 +483,7 @@ gestion-marca-producto
 gestion-organizaciones-efectivas
 gestionar-personas
 gestionempresarialpyme
+get-active
 getting-started-agile
 getting-started-with-essay-writing
 ghresponder
@@ -503,6 +512,7 @@ habilidades-negociacion
 hadoop
 happiness
 hardware-ios
+hardware-security
 hcqualityimprovement
 health-care-innovation
 health-for-all
@@ -549,6 +559,7 @@ importance-of-listening
 income-statement
 increase-reach
 india
+inductive-reasoning
 infection-prevention
 inferential-statistics
 inferential-statistics-intro
@@ -669,6 +680,7 @@ leading-sense
 leading-teams
 learn-chinese
 learn-korean
+learn-speak-korean1
 learning-assessment
 learning-how-to-learn
 learning-skills
@@ -680,6 +692,7 @@ life-on-other-planets
 linear-regression-model
 linearalgebra1
 linearalgebra2
+logical-fallacies
 lunwen-xiezuo-chujie
 m-infra-1
 ma-ke-si
@@ -807,6 +820,7 @@ neuroeconomics
 neurohacking
 newbusinessmodel
 newnordicdiet
+nlpintro
 nonprofit-gov-1
 nonprofit-gov-2
 nonprofit-gov-3
@@ -814,6 +828,7 @@ nonviolence
 norms
 nsu-genetics
 nsu-virology
+ntuugp
 nube-ios
 nurture-market-strategies
 object-oriented-java
@@ -1034,6 +1049,7 @@ soulbeliefs2
 soulbeliefs3
 speak-english-professionally
 sports-society
+sports-sponsorship
 spss-ruanjian
 sql-server-shujuku-jishu
 start-your-own-business-2-ideation
@@ -1108,6 +1124,7 @@ technology-commercialization
 technology-of-music-production
 tecnicas-microscopicas-caracterizacion
 terrorism
+tesol-speaking
 tesol-writing
 tesoros-de-la-fisica
 text-retrieval
@@ -1129,6 +1146,7 @@ together-teacher
 types-of-conflict
 typography
 ui
+understanding-arguments
 understanding-financial-markets
 understandingterror
 undpcso
