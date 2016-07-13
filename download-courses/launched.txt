@@ -90,6 +90,7 @@ aulaconstructivista
 autism-spectrum-disorder
 bacteria
 basic-statistics
+bayesian
 bayesian-statistics
 beam-bending
 become-a-journalist3
@@ -244,6 +245,7 @@ cs-tech-interview
 csharp-gaoji-biancheng-fangfa
 cyber-conflicts
 cyber-security-domain
+cybersecurity-and-mobility
 da-xue-hua-xue
 dairy-production
 dangdai-yingyong-xinli-xue
@@ -283,6 +285,7 @@ designing-organization
 deteccion-objetos
 develop-your-musicianship
 developer-iot
+developpement-urbain
 diabetes
 dianci
 dianci-2
@@ -410,6 +413,7 @@ finance-decisions
 finance-for-non-finance-managers
 finance-for-non-finance-managerses
 finance-markets
+finance-value
 financial-engineering-1
 financial-engineering-2
 financial-markets
@@ -462,6 +466,7 @@ gamification
 gaoji-shuju-jiegou
 gaojie-wei-jifen
 gathering-the-news
+gbv
 genbioconductor
 gender-art
 general-chemistry
@@ -566,6 +571,7 @@ infertilite
 influencing-people
 infodesign
 infographic-design
+infrafinance
 ingles-empresaria-finanza-economia
 ingles-empresarial-gestion-liderazgo
 ingles-empresarial-marketing-ventas
@@ -623,6 +629,7 @@ investing-fondamentaux
 investing-in-corporate-growth
 investing-in-shares
 investment-management
+investment-philosophy
 investments
 ios-avancado
 ios-jogos
@@ -703,6 +710,7 @@ macroeconomia-pt
 mafash
 magnetics-power-electronic-converters
 make-comic-books
+makrojekonomika
 management-philosophy
 managerial-accounting
 managerial-accounting-tools
@@ -715,6 +723,7 @@ managing-organization
 managing-talent
 managing-team-agile
 managingmoney
+managingpeople-iese
 market-analytics
 market-efficiency
 market-infrastructure-mechanisms-technology-of-investing
@@ -834,6 +843,7 @@ objective-c
 obstaculos-negociaciones
 ocenka-stoimosti-kompanii
 oilandgas
+olympic-games
 onlinegames
 operations-management
 operations-strategy
@@ -886,6 +896,7 @@ portfolio-management
 portfolio-risk-management
 positioning
 positive-psychology
+postharvest
 power-electronics
 poweronboarding
 pppefficace
@@ -1125,6 +1136,7 @@ terrorism
 tesol-speaking
 tesol-writing
 tesoros-de-la-fisica
+text-mining
 text-retrieval
 the-beatles
 the-blues
@@ -1152,6 +1164,7 @@ unsupervised-learning
 unwritten-constitution
 upravlenie-lichnymi-finansami
 upravlinnya-chasom
+urban-development
 urban-education
 usable-security
 user-experience-design
@@ -1223,6 +1236,7 @@ work-psychology
 work-smarter-not-harder
 work-smarter-not-harderes
 writing-college-research
+writing-for-business
 writing-for-children
 written-constitution
 xin-li-xue-sheng-huo

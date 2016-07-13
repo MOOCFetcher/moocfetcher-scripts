@@ -91,6 +91,7 @@ aulaconstructivista
 autism-spectrum-disorder
 bacteria
 basic-statistics
+bayesian
 bayesian-statistics
 beam-bending
 become-a-journalist3
@@ -245,6 +246,7 @@ cs-tech-interview
 csharp-gaoji-biancheng-fangfa
 cyber-conflicts
 cyber-security-domain
+cybersecurity-and-mobility
 da-xue-hua-xue
 dairy-production
 dangdai-yingyong-xinli-xue
