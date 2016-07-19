@@ -129,6 +129,7 @@ build-data-science-team
 building--agile-culture
 bulgakov-master-i-margarita
 business
+business-accounting-1
 business-chinese
 business-data
 business-english-for-cross-cultural-communication
@@ -286,6 +287,7 @@ designing-organization
 deteccion-objetos
 develop-your-musicianship
 developer-iot
+developpement-urbain
 diabetes
 dianci
 dianci-2
@@ -293,6 +295,7 @@ differentiation-calculus
 digital
 digital-analytics
 digital-democracy
+digital-literacy
 digital-storytelling
 digitalmedia
 disability-awareness
@@ -413,6 +416,7 @@ finance-decisions
 finance-for-non-finance-managers
 finance-for-non-finance-managerses
 finance-markets
+finance-value
 financial-engineering-1
 financial-engineering-2
 financial-markets
@@ -465,6 +469,7 @@ gamification
 gaoji-shuju-jiegou
 gaojie-wei-jifen
 gathering-the-news
+gbv
 genbioconductor
 gender-art
 general-chemistry
@@ -569,6 +574,7 @@ infertilite
 influencing-people
 infodesign
 infographic-design
+infrafinance
 ingles-empresaria-finanza-economia
 ingles-empresarial-gestion-liderazgo
 ingles-empresarial-marketing-ventas
@@ -626,6 +632,7 @@ investing-fondamentaux
 investing-in-corporate-growth
 investing-in-shares
 investment-management
+investment-philosophy
 investments
 ios-avancado
 ios-jogos
@@ -707,6 +714,7 @@ macroeconomia-pt
 mafash
 magnetics-power-electronic-converters
 make-comic-books
+makrojekonomika
 management-philosophy
 managerial-accounting
 managerial-accounting-tools
@@ -719,6 +727,7 @@ managing-organization
 managing-talent
 managing-team-agile
 managingmoney
+managingpeople-iese
 market-analytics
 market-efficiency
 market-infrastructure-mechanisms-technology-of-investing
@@ -838,6 +847,7 @@ objective-c
 obstaculos-negociaciones
 ocenka-stoimosti-kompanii
 oilandgas
+olympic-games
 onlinegames
 operations-management
 operations-strategy
@@ -890,6 +900,7 @@ portfolio-management
 portfolio-risk-management
 positioning
 positive-psychology
+postharvest
 power-electronics
 poweronboarding
 pppefficace
@@ -1129,6 +1140,7 @@ terrorism
 tesol-speaking
 tesol-writing
 tesoros-de-la-fisica
+text-mining
 text-retrieval
 the-beatles
 the-blues
@@ -1152,11 +1164,13 @@ understanding-arguments
 understanding-financial-markets
 understandingterror
 undpcso
+unity-yinqing-youxi-jinjie
 unity-yinqing-youxi-kaifa
 unsupervised-learning
 unwritten-constitution
 upravlenie-lichnymi-finansami
 upravlinnya-chasom
+urban-development
 urban-education
 usable-security
 user-experience-design
@@ -1186,6 +1200,7 @@ wangluo-kecheng-xuexi-pingjia
 war
 water-management
 web-application-development
+web-development-based-dotnet
 web-frameworks
 web-semantica
 webapps1
@@ -1228,6 +1243,7 @@ work-psychology
 work-smarter-not-harder
 work-smarter-not-harderes
 writing-college-research
+writing-for-business
 writing-for-children
 written-constitution
 xin-li-xue-sheng-huo

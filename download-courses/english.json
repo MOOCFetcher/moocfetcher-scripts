@@ -8045,6 +8045,24 @@
       "primaryLanguageCodes": [
         "en"
       ]
+    },
+    {
+      "id": "0czyKe-LEeWLaBLI8fdMlw",
+      "courseType": "v2.ondemand",
+      "name": "Accounting for Business Decision Making: Part 1",
+      "slug": "business-accounting-1",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "6Oh26OW4EeWy1RKsaf3f1w",
+      "slug": "digital-literacy",
+      "name": "Information & Digital Literacy for University Success",
+      "primaryLanguageCodes": [
+        "en"
+      ]
     }
   ]
 }
