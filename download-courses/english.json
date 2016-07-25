@@ -8063,6 +8063,114 @@
       "primaryLanguageCodes": [
         "en"
       ]
+    },
+    {
+      "id": "9h_j5XEiEeWbbw5cIAKQrw",
+      "name": "Advanced Search Engine Optimization Strategies",
+      "courseType": "v2.ondemand",
+      "slug": "advanced-seo-strategies",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "XYsEz8XxEeWIJRKecECAWw",
+      "slug": "pre-calculus",
+      "name": "Pre-Calculus: Functions",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "AvOymAjKEeaZtBIpAxSKuw",
+      "slug": "trigonometry",
+      "name": "Pre-Calculus: Trigonometry",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "id": "X3F5IHK0EeWi0g6YoSAL-w",
+      "courseType": "v2.ondemand",
+      "name": "Securing Investment Returns in the Long Run",
+      "slug": "investment-returns-long-run",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "lswH0jTZEea1ggpF7DR5sw",
+      "slug": "desarrollo-urbano",
+      "name": "Cities are back in town : urban sociology for a globalizing urban world (Spanish)",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "WRmBJpeLEeWiKgp3mpfjeQ",
+      "slug": "magicmiddleages",
+      "name": "Magic in the Middle Ages",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "e8alEup0EeWTQApGcKeRIQ",
+      "slug": "iot-devices",
+      "name": "Introduction to Architecting Smart IoT Devices",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "-RpsW7fLEeS-WiIAC1OKoQ",
+      "slug": "literacy-teaching-learning",
+      "name": "Literacy Teaching and Learning: Aims, Approaches and Pedagogies",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "JrtwbUUmEeWbNhIvIryYow",
+      "slug": "sustainable-agriculture",
+      "name": "Sustainable Agricultural Land Management",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "8om3I-4LEeSbxyIACw0OOQ",
+      "slug": "programming-languages",
+      "name": "Programming Languages, Part A",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "A9Yb1uFoEeWLHw5Kc9wFbw",
+      "slug": "unethical-decision-making",
+      "name": "Unethical Decision Making in Organizations",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "id": "bMcEw3HwEeWIfhKr_WcYsQ",
+      "slug": "marketing-mix",
+      "courseType": "v2.ondemand",
+      "name": "Marketing Mix Fundamentals",
+      "primaryLanguageCodes": [
+        "en"
+      ]
     }
   ]
 }

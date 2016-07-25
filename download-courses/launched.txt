@@ -25,6 +25,7 @@ advanced-data-structures
 advanced-interviewing
 advanced-linear-models-data-science
 advanced-neurobiolog1
+advanced-seo-strategies
 advanced-writing
 ageing
 ageofjefferson
@@ -155,6 +156,7 @@ calculo-4
 calculodiferencial
 calculus-diferansiyel-hesap
 calculus1
+canal-distribucion
 cancer
 capital-markets
 capitalismo-consciente
@@ -277,6 +279,7 @@ democracia
 dental-medicine-penn
 desarrollo-de-aplicaciones
 desarrollo-musicalidad
+desarrollo-urbano
 desarrollo-videojuegos-unity
 design-principles
 design-thinking-innovation
@@ -632,6 +635,7 @@ investing-in-corporate-growth
 investing-in-shares
 investment-management
 investment-philosophy
+investment-returns-long-run
 investments
 ios-avancado
 ios-jogos
@@ -640,7 +644,9 @@ iosappdevelopmentbasics
 iosswift
 iot
 iot-augmented-reality-technologies
+iot-devices
 iot-software-architecture
+istoriya-ekonomiki
 istoriya-izobretenii-i-otkritii
 java-chengxu-sheji
 java-programming
@@ -699,6 +705,7 @@ life-on-other-planets
 linear-regression-model
 linearalgebra1
 linearalgebra2
+literacy-teaching-learning
 logical-fallacies
 lunwen-xiezuo-chujie
 m-infra-1
@@ -710,6 +717,7 @@ machinelearningwithbigdata-clone
 macondo-gabriel-garcia-marquez
 macroeconomia-pt
 mafash
+magicmiddleages
 magnetics-power-electronic-converters
 make-comic-books
 makrojekonomika
@@ -737,6 +745,7 @@ marketing-analytics
 marketing-channels
 marketing-digital
 marketing-iese
+marketing-mix
 marketing-plan
 marketingverde
 mastering-bitumen
@@ -904,6 +913,7 @@ poweronboarding
 pppefficace
 practical-machine-learning
 prcampaign
+pre-calculus
 pregnancychildbirth
 preserving-cultural-heritage
 presupuestos-proyecto
@@ -934,6 +944,7 @@ programacion-estadistica-r
 programae
 programandoconjava
 programmation-orientee-objet
+programming-languages
 project-management
 project-management-basics
 project-planning
@@ -1042,6 +1053,7 @@ sitedance
 smart-growth-strategy-1
 smart-growth-strategy-2
 smartphone-emerging-technologies
+smm-campaniya
 smm-osnovy
 smm-platformy
 social-computing
@@ -1103,6 +1115,7 @@ superhero
 supervised-learning
 supply-chain-management
 sustainability
+sustainable-agriculture
 sustainable-development
 sustainabledevelopment1
 swift
@@ -1154,6 +1167,7 @@ tianwenxue
 time-value-money
 tinkering
 together-teacher
+trigonometry
 types-of-conflict
 typography
 ui
@@ -1161,6 +1175,7 @@ understanding-arguments
 understanding-financial-markets
 understandingterror
 undpcso
+unethical-decision-making
 unity-yinqing-youxi-jinjie
 unity-yinqing-youxi-kaifa
 unsupervised-learning

@@ -26,6 +26,7 @@ advanced-data-structures
 advanced-interviewing
 advanced-linear-models-data-science
 advanced-neurobiolog1
+advanced-seo-strategies
 advanced-writing
 ageing
 ageofjefferson
@@ -633,6 +634,7 @@ investing-in-corporate-growth
 investing-in-shares
 investment-management
 investment-philosophy
+investment-returns-long-run
 investments
 ios-avancado
 ios-jogos
@@ -642,6 +644,7 @@ iosswift
 iot
 iot-augmented-reality-technologies
 iot-software-architecture
+istoriya-ekonomiki
 istoriya-izobretenii-i-otkritii
 java-chengxu-sheji
 java-programming
@@ -712,6 +715,7 @@ machinelearningwithbigdata-clone
 macondo-gabriel-garcia-marquez
 macroeconomia-pt
 mafash
+magicmiddleages
 magnetics-power-electronic-converters
 make-comic-books
 makrojekonomika
@@ -906,6 +910,7 @@ poweronboarding
 pppefficace
 practical-machine-learning
 prcampaign
+pre-calculus
 pregnancychildbirth
 preserving-cultural-heritage
 presupuestos-proyecto
@@ -1044,6 +1049,7 @@ sitedance
 smart-growth-strategy-1
 smart-growth-strategy-2
 smartphone-emerging-technologies
+smm-campaniya
 smm-osnovy
 smm-platformy
 social-computing
@@ -1157,6 +1163,7 @@ tianwenxue
 time-value-money
 tinkering
 together-teacher
+trigonometry
 types-of-conflict
 typography
 ui
