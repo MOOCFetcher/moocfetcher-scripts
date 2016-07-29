@@ -8171,6 +8171,87 @@
       "primaryLanguageCodes": [
         "en"
       ]
+    },
+    {
+      "id": "-YdYt3Q6EeWxvQr3acyajw",
+      "courseType": "v2.ondemand",
+      "name": "Imagery, Modeling and Applications",
+      "slug": "gis-imgagery-model-apply",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "name": "Emergence of Life",
+      "id": "v6WP2snaEeWOSQ7DzjkS2Q",
+      "slug": "origin-of-life",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "XczDJRhBEeaUCRJWL-pjpQ",
+      "slug": "social-innovation",
+      "name": "Becoming a changemaker: Introduction to Social Innovation",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "id": "j7Dwn9djEeWlbgqNCYymGw",
+      "name": "Tricky English Grammar",
+      "courseType": "v2.ondemand",
+      "slug": "tricky-english-grammar",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "id": "UnTtYHl0EeWfrQ7ngHMGEQ",
+      "name": "Algorithms on Strings",
+      "courseType": "v2.ondemand",
+      "slug": "algorithms-on-strings",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "kwoH0Ux5EeW_MgoxMAgbMQ",
+      "slug": "movingtothecloud",
+      "name": "Moving to the Cloud",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "S2yYbyBiEeWa6hIFcmm3AQ",
+      "slug": "global-theatre",
+      "name": "Theatre and Globalization",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "6K8l2CwFEeaU1xK12iolBQ",
+      "slug": "financial-accounting-foundations",
+      "name": "Financial Accounting: Foundations",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "lU9jvUkuEeaLEAqUHs9hMw",
+      "slug": "managerial-accounting-analysis",
+      "name": "Managerial Accounting: Cost Behaviors, Systems, and Analysis",
+      "primaryLanguageCodes": [
+        "en"
+      ]
     }
   ]
 }

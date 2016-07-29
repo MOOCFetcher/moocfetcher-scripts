@@ -42,6 +42,7 @@ algorithmic-thinking-1
 algorithmic-thinking-2
 algorithmic-toolbox
 algorithms-on-graphs-and-trees
+algorithms-on-strings
 altruism
 americalatina
 american-law
@@ -157,6 +158,7 @@ calculo-4
 calculodiferencial
 calculus-diferansiyel-hesap
 calculus1
+canal-distribucion
 cancer
 capital-markets
 capitalismo-consciente
@@ -279,6 +281,7 @@ democracia
 dental-medicine-penn
 desarrollo-de-aplicaciones
 desarrollo-musicalidad
+desarrollo-urbano
 desarrollo-videojuegos-unity
 design-principles
 design-thinking-innovation
@@ -393,6 +396,7 @@ estrategia-financiera
 estrategia-precios
 estrategias-de-negociacion
 estrategias-negociacion
+estrategiasparaganar-meteorologia
 etica
 etkili-konusma
 europe
@@ -418,6 +422,7 @@ finance-for-non-finance-managers
 finance-for-non-finance-managerses
 finance-markets
 finance-value
+financial-accounting-foundations
 financial-engineering-1
 financial-engineering-2
 financial-markets
@@ -497,12 +502,14 @@ getting-started-with-essay-writing
 ghresponder
 gis
 gis-data-design
+gis-imgagery-model-apply
 global-diplomacy
 global-energy
 global-financial-crisis
 global-health
 global-health-overview
 global-studies
+global-theatre
 global-warming
 global-warming-model
 globalbusiness2
@@ -643,6 +650,7 @@ iosappdevelopmentbasics
 iosswift
 iot
 iot-augmented-reality-technologies
+iot-devices
 iot-software-architecture
 istoriya-ekonomiki
 istoriya-izobretenii-i-otkritii
@@ -704,6 +712,7 @@ life-on-other-planets
 linear-regression-model
 linearalgebra1
 linearalgebra2
+literacy-teaching-learning
 logical-fallacies
 lunwen-xiezuo-chujie
 m-infra-1
@@ -721,6 +730,7 @@ make-comic-books
 makrojekonomika
 management-philosophy
 managerial-accounting
+managerial-accounting-analysis
 managerial-accounting-tools
 managing-as-a-coach
 managing-data-analysis
@@ -743,9 +753,11 @@ marketing-analytics
 marketing-channels
 marketing-digital
 marketing-iese
+marketing-mix
 marketing-plan
 marketingverde
 mastering-bitumen
+mastering-value-creation
 material-behavior
 material-informatics
 material-science-engineering
@@ -802,6 +814,7 @@ moses
 mosfet
 motion-and-kinetics
 motivate-people-teams
+movingtothecloud
 mswm
 multiplas-telas-iphone
 music-and-social-action
@@ -849,6 +862,7 @@ nurture-market-strategies
 object-oriented-java
 objective-c
 obstaculos-negociaciones
+oceanografia
 ocenka-stoimosti-kompanii
 oilandgas
 olympic-games
@@ -861,6 +875,7 @@ organic-chemistry
 orgology
 orientacao-a-objetos-com-java
 origensdavida
+origin-of-life
 origins-universe-solarsystem
 pai-she
 pap
@@ -941,6 +956,7 @@ programacion-estadistica-r
 programae
 programandoconjava
 programmation-orientee-objet
+programming-languages
 project-management
 project-management-basics
 project-planning
@@ -1042,6 +1058,7 @@ sheng-wu-xin-xi-xue
 shengming-kexue-fazhanshi
 shengwu-huaxue
 shengwu-yanhua
+shipin-anquan
 shuju-jiegou-suanfa
 single-variable-calculus
 sistemas-digitales
@@ -1054,6 +1071,7 @@ smm-osnovy
 smm-platformy
 social-computing
 social-imc
+social-innovation
 socmedpr
 software-processes-and-agile-practices
 software-security
@@ -1111,6 +1129,7 @@ superhero
 supervised-learning
 supply-chain-management
 sustainability
+sustainable-agriculture
 sustainable-development
 sustainabledevelopment1
 swift
@@ -1163,6 +1182,7 @@ tianwenxue
 time-value-money
 tinkering
 together-teacher
+tricky-english-grammar
 trigonometry
 types-of-conflict
 typography
@@ -1171,6 +1191,7 @@ understanding-arguments
 understanding-financial-markets
 understandingterror
 undpcso
+unethical-decision-making
 unity-yinqing-youxi-jinjie
 unity-yinqing-youxi-kaifa
 unsupervised-learning
