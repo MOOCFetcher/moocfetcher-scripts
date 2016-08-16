@@ -9169,6 +9169,186 @@
         "en"
       ],
       "size": 274267151
+    },
+    {
+      "id": "JLKBSZ4YEeWIkQ6WyNigcw",
+      "name": "Preventing Chronic Pain: A Human Systems Approach",
+      "courseType": "v2.ondemand",
+      "slug": "chronic-pain",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 3408632100
+    },
+    {
+      "id": "GkyTjuR5EeWpUQ6vdoq9ZQ",
+      "name": "Cybersecurity and the Internet of Things",
+      "courseType": "v2.ondemand",
+      "slug": "cybersecurity-and-the-internet-of-things",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 130877749
+    },
+    {
+      "id": "xTMfeKA5EeWLqxJ6DRA-FQ",
+      "name": "Modeling Discrete Optimization",
+      "courseType": "v2.ondemand",
+      "slug": "modelingoptimization",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 2204727984
+    },
+    {
+      "id": "b8nsvDcPEeagOA7KA9ciIQ",
+      "name": "Global Health Diplomacy",
+      "courseType": "v2.ondemand",
+      "slug": "global-health-diplomacy",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 652473788
+    },
+    {
+      "id": "5XERsbo6EeWfYA612mWHZw",
+      "name": "Statistical Reasoning for Public Health 2: Regression Methods",
+      "courseType": "v2.ondemand",
+      "slug": "statistical-reasoning-2",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 1126032452
+    },
+    {
+      "id": "gvw1-gKyEeaJMgqy4cb6jQ",
+      "name": "Fibonacci Numbers and the Golden Ratio",
+      "courseType": "v2.ondemand",
+      "slug": "fibonacci",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 369659236
+    },
+    {
+      "id": "HFhDw-STEeWYOBIRup69HQ",
+      "name": "Cloud Computing Applications, Part 1",
+      "courseType": "v2.ondemand",
+      "slug": "cloud-applications",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 1193823717
+    },
+    {
+      "id": "xASZdzkZEea1eg6YQeunOw",
+      "name": "In the footsteps of Zika… approaching the unknown",
+      "courseType": "v2.ondemand",
+      "slug": "zika",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 674050495
+    },
+    {
+      "id": "pCa5-xauEeWEjBINzvDOWw",
+      "name": "System Validation: Automata and behavioural equivalences",
+      "courseType": "v2.ondemand",
+      "slug": "automata-system-validation",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 239071864
+    },
+    {
+      "id": "dpUAfhO6EeajWgpXwy6yqw",
+      "name": "Health Literacy and Communication for Health Professionals",
+      "courseType": "v2.ondemand",
+      "slug": "healthliteracy",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 978373570
+    },
+    {
+      "id": "yE4SeOsyEeWaMA7Pe7xMzw",
+      "name": "Embedded Hardware and Operating Systems",
+      "courseType": "v2.ondemand",
+      "slug": "embedded-operating-system",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 668312558
+    },
+    {
+      "id": "zfMry-S0EeW_yhIcE2bZaw",
+      "name": "Big Data Science with the BD2K-LINCS Data Coordination and Integration Center",
+      "courseType": "v2.ondemand",
+      "slug": "bd2k-lincs",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 585258069
+    },
+    {
+      "id": "nw7W8Ib0EeWLPRLnVNA9qw",
+      "name": "Strategy",
+      "courseType": "v2.ondemand",
+      "slug": "howtostartabusiness5",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 581858761
+    },
+    {
+      "id": "Yanhq-pzEeWvGQrWsIkLlw",
+      "name": "Architecting Smart IoT Devices",
+      "courseType": "v2.ondemand",
+      "slug": "iot-architecture",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 614348020
+    },
+    {
+      "id": "n7Pp5hJfEea7Vw5aJ3DY6w",
+      "name": "Game Theory II: Advanced Applications",
+      "courseType": "v2.ondemand",
+      "slug": "game-theory-2",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 607100959
+    },
+    {
+      "id": "hJ1Jl-fcEeWwMw6osrJBVw",
+      "name": "Game Theory",
+      "courseType": "v2.ondemand",
+      "slug": "game-theory-1",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 761707459
+    },
+    {
+      "id": "pwEMYMrFEeWefQ5w2ud5rw",
+      "name": "Sustainable Food Production Through Livestock Health Management",
+      "courseType": "v2.ondemand",
+      "slug": "livestock-farming",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 1640503625
+    },
+    {
+      "id": "yFZxWd8aEeWDLBKS83bB7Q",
+      "name": "English for Journalism",
+      "courseType": "v2.ondemand",
+      "slug": "journalism",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 697129129
     }
   ]
 }
