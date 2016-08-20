@@ -1,4 +1,6 @@
 #!/bin/bash
+aws s3 cp --quiet s3://moocfetcher/coursera/all.json .
+echo "`cat all.json | jq '.courses | map(select(.courseType == "v2.ondemand")) | .[] | .slug ' | wc -l` courses total"
 aws s3 cp --quiet s3://moocfetcher/coursera/ondemand/launched.json .
 cat launched.json | jq -r ".courses[] |  .slug" | sort > launched.txt
 echo "`wc -l < launched.txt` courses launched"
