@@ -185,6 +185,7 @@ chino-primera-impresion
 chino-viajes-de-negocios
 chronic-pain
 chuangxin-siwei
+chuangyi-chuangxin-biange
 ciencia
 clasificacion-imagenes
 classical-composition
@@ -211,6 +212,7 @@ common-law
 communication
 communication-in-the-workplace
 communication-in-the-workplacees
+communication-k12-math
 community-change-public-health
 como-autoconstruir-tu-vivienda
 como-financiar-mi-empresa
@@ -419,6 +421,7 @@ exploratory-data-analysis
 explorelight
 exposure-photography
 extracellular-potentials
+extracellular-vesicles
 family-planning
 fast-track-finance-1
 fe-exam
@@ -728,6 +731,7 @@ life-on-other-planets
 linear-regression-model
 linearalgebra1
 linearalgebra2
+literacy-k12
 literacy-teaching-learning
 livestock-farming
 logical-fallacies
@@ -748,6 +752,7 @@ makrojekonomika
 management-philosophy
 managerial-accounting
 managerial-accounting-analysis
+managerial-accounting-tool
 managerial-accounting-tools
 managing-as-a-coach
 managing-data-analysis
@@ -780,6 +785,7 @@ material-informatics
 material-science-engineering
 materials-science
 materials-structures
+math-through-problem-solving
 mathematics-and-python
 mathematics-sport
 matlab
@@ -925,6 +931,8 @@ physiology
 physique-optique
 physique-particules
 planificacion-proyectos
+plant-biology
+plantknows
 plato
 plato-dialogues
 poetry-workshop
@@ -1178,6 +1186,7 @@ teaching-secondary
 teaching-strategies
 tech-startup
 technology-commercialization
+technology-k12
 technology-of-music-production
 tecnicas-microscopicas-caracterizacion
 terrorism
