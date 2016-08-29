@@ -23,6 +23,7 @@ advanced-competitive-strategy-zh
 advanced-converter-control
 advanced-data-structures
 advanced-interviewing
+advanced-java-concurrency
 advanced-linear-models-data-science
 advanced-neurobiolog1
 advanced-seo-strategies
@@ -108,6 +109,7 @@ bian-ju
 bible-history
 big-bang
 big-data-cloud-computing-cdn
+big-data-integration-processing
 big-data-management
 big-history
 big-ideas
@@ -134,6 +136,7 @@ building--agile-culture
 bulgakov-master-i-margarita
 business
 business-accounting-1
+business-accounting-2
 business-chinese
 business-data
 business-english-for-cross-cultural-communication
@@ -151,6 +154,7 @@ businessinsociety
 c-bian-cheng
 c-chengxu-sheji
 c-plus-plus-a
+c-plus-plus-b
 cad
 cad3d
 calculo-1
@@ -236,6 +240,7 @@ converter-control
 copyright-for-education
 copyright-for-multimedia
 corporate-finance
+corporate-finance-copy
 corporate-finance-essentials
 correccion
 country-level-economics
@@ -259,6 +264,7 @@ cyber-conflicts
 cyber-security-domain
 cybersecurity-and-mobility
 cybersecurity-and-the-internet-of-things
+cybersecurity-and-x-factor
 da-xue-hua-xue
 dairy-production
 dangdai-yingyong-xinli-xue
@@ -280,8 +286,10 @@ database-management
 datasci2
 datasci3
 datavisualization
+dataviz
 datos-tecnicas
 decentralization-africa
+decision-making
 decodificando-silicon-valley
 deductive-reasoning
 demandmanagement
@@ -344,6 +352,7 @@ economics-transition-emerging-markets
 economie-sol-immobilier-2
 economy-russia-transition
 ecosol1
+edinburgh-music-theory
 edref
 effective-content-strategy
 effective-intercultural-communication
@@ -428,11 +437,13 @@ fe-exam
 feedback
 fhir
 fibonacci
+finance-debt
 finance-decisions
 finance-for-non-finance-managers
 finance-for-non-finance-managerses
 finance-markets
 finance-value
+financial-accounting-advanced
 financial-accounting-foundations
 financial-engineering-1
 financial-engineering-2
@@ -502,6 +513,7 @@ genomic-tools
 geo-enviro-analysis
 geomatique
 geopoliticaygobernanzaglobal
+geopolitique
 gestao-escolar
 gestion-de-productividad
 gestion-de-proyectos
@@ -637,6 +649,7 @@ internet-of-things-sensing-actuation
 internet-technologies
 internetgiants
 interview-preparation
+intro-chemistry
 intro-galois
 intro-international-marketing
 intro-programming
@@ -731,6 +744,7 @@ life-on-other-planets
 linear-regression-model
 linearalgebra1
 linearalgebra2
+listening-notetaking
 literacy-k12
 literacy-teaching-learning
 livestock-farming
@@ -777,6 +791,7 @@ marketing-digital
 marketing-iese
 marketing-mix
 marketing-plan
+marketingplan
 marketingverde
 mastering-bitumen
 mastering-value-creation
@@ -809,6 +824,7 @@ microbiome
 microeconomics
 microeconomics-part1
 microeconomics-part2
+missing-data
 ml-classification
 ml-clustering-and-retrieval
 ml-foundations
@@ -901,6 +917,7 @@ orientacao-a-objetos-com-java
 origensdavida
 origin-of-life
 origins-universe-solarsystem
+our-earth
 pai-she
 pap
 papers-molecular-genetics
@@ -1027,11 +1044,13 @@ regression-modeling-practice
 regression-models
 relativita-meccanica-quantistica
 renewable-energy
+rengong-zhineng
 renqun-wangluo
 representaciones-culturales
 reproducible-research
 reproductive-health
 research-methods
+resilience-in-children
 responsive-web-design
 responsive-website-examples
 responsivedesign
@@ -1070,6 +1089,7 @@ screening
 script-writing
 search-engine-optimization
 security
+seguridad-alimentaria
 seo-fundamentals
 seo-tactics
 server-side-development
@@ -1205,6 +1225,7 @@ thermo-apps
 thermo-base
 thermodynamics-intro
 theropods-birds
+thoracic-oncology
 tianwenxue
 time-value-money
 tinkering

@@ -9391,37 +9391,203 @@
       "size": 851381332
     },
     {
-      "courseType": "v2.ondemand",
       "id": "BK89oxtsEeaEIQq1FSQEZQ",
-      "slug": "technology-k12",
       "name": "Integrating Technology in the K-12 Classroom",
+      "courseType": "v2.ondemand",
+      "slug": "technology-k12",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 215933
     },
     {
-      "courseType": "v2.ondemand",
       "id": "wWkoAThyEea67A6Z1aCfuw",
-      "slug": "math-through-problem-solving",
       "name": "Teaching Math Through Problem-Solving K-12",
+      "courseType": "v2.ondemand",
+      "slug": "math-through-problem-solving",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 715606
     },
     {
-      "courseType": "v2.ondemand",
       "id": "xqk_extrEeammQ6NfVLBSw",
-      "slug": "communication-k12-math",
       "name": "Communicating in Math in the K-12 Classroom",
+      "courseType": "v2.ondemand",
+      "slug": "communication-k12-math",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 229139
+    },
+    {
+      "id": "CppWWDhzEea7Aw7qCMa9-w",
+      "name": "Integrating CCRS and Literacy K-12",
+      "courseType": "v2.ondemand",
+      "slug": "literacy-k12",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 3159148
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "0rve3VyYEeW9BBKT5ztNhQ",
+      "slug": "thoracic-oncology",
+      "name": "Thoracic Oncology",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "id": "Q2u0W--MEeWj_AqhReL55Q",
+      "slug": "business-accounting-2",
+      "courseType": "v2.ondemand",
+      "name": "Accounting for Business Decision Making: Part 2",
       "primaryLanguageCodes": [
         "en"
       ]
     },
     {
       "courseType": "v2.ondemand",
-      "id": "CppWWDhzEea7Aw7qCMa9-w",
-      "slug": "literacy-k12",
-      "name": "Integrating CCRS and Literacy K-12",
+      "id": "BvEMlUkvEeahWA4Td3Kvcw",
+      "slug": "corporate-finance-copy",
+      "name": "Corporate Finance I: Measuring and Promoting Value Creation",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "dDoFzLi8EeW-DxJ4SAJAhQ",
+      "slug": "decision-making",
+      "name": "Data-driven Decision Making",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "bMtIO8w2EeWBKQplU3nsJQ",
+      "slug": "intro-chemistry",
+      "name": "Introduction to Chemistry:  Reactions and Ratios",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "id": "0HiU7Oe4EeWTAQ4yevf_oQ",
+      "slug": "missing-data",
+      "courseType": "v2.ondemand",
+      "name": "Dealing With Missing Data",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "VuRXs3EiEeWrAxJQXw-8PQ",
+      "slug": "dataviz",
+      "name": "Fundamentals of Visualization with Tableau",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "xPEJPExVEeWyUw4oVjG8nQ",
+      "slug": "our-earth",
+      "name": "Our Earth: Its Climate, History, and Processes",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "bu-bs9_HEeSNQCIAC2-J5Q",
+      "slug": "edinburgh-music-theory",
+      "name": "Fundamentals of Music Theory",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "kaEEZo2KEeWFxA4DZNEJOQ",
+      "slug": "c-plus-plus-b",
+      "name": "C++ For C Programmers, Part B",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "id": "uWrCG9mpEeWkdgqomU4otw",
+      "slug": "big-data-integration-processing",
+      "courseType": "v2.ondemand",
+      "name": "Big Data Integration and Processing",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "K1OOQOR5EeWwaBIy029mpQ",
+      "slug": "cybersecurity-and-x-factor",
+      "name": "Cybersecurity and the X-Factor",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "KinX8iwGEeaA3A6P4rV07Q",
+      "slug": "financial-accounting-advanced",
+      "name": "Financial Accounting: Advanced Topics",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "KD4-0r-yEeWaXhJquRNtDw",
+      "slug": "listening-notetaking",
+      "name": "Academic Listening and Note-Taking",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "pBwK6rTLEeWhzw6RmNsYkQ",
+      "slug": "advanced-java-concurrency",
+      "name": "Advanced Java Concurrency",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "id": "JQ3V0XdUEeWLqw7zlLhRzQ",
+      "courseType": "v2.ondemand",
+      "name": "Finance for Everyone: Debt",
+      "slug": "finance-debt",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "id": "mm1Ej3HwEeWxvQr3acyajw",
+      "courseType": "v2.ondemand",
+      "slug": "marketingplan",
+      "name": "The Marketing Plan",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "name": "Resilience in Children Exposed to Trauma, Disaster and War: Global Perspectives",
+      "id": "RfJ9I6KTEeWM5RIHOLu8Dw",
+      "slug": "resilience-in-children",
       "primaryLanguageCodes": [
         "en"
       ]
