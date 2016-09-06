@@ -1,4 +1,5 @@
 2-speed-it
+20cnwm
 2d-cad
 3d-cad
 3d-printing
@@ -15,6 +16,7 @@ adhd-everyday-strategies
 adjective-clauses
 administracion-estrategica
 adolescenthealth
+advanced-algorithms-and-complexity
 advanced-business-strategy
 advanced-calculus
 advanced-chemistry
@@ -43,6 +45,7 @@ algorithmic-thinking-2
 algorithmic-toolbox
 algorithms-on-graphs-and-trees
 algorithms-on-strings
+algoritmizacija-vychislenij
 altruism
 americalatina
 american-law
@@ -75,6 +78,7 @@ approximation-algorithms-part-2
 aprender
 aprendiendo-a-aprender
 aprendo
+arabic-for-media
 archoftitus
 arctic-introduction-climate
 arduino-platform
@@ -164,6 +168,7 @@ calculo-4
 calculodiferencial
 calculus-diferansiyel-hesap
 calculus1
+calvin
 canal-distribucion
 cancer
 capital-markets
@@ -194,12 +199,14 @@ ciencia
 clasificacion-imagenes
 classical-composition
 classical-sociological-theory
+classics-chinese-humanities
 client-needs-and-software-requirements
 climate-change-mitigation
 climate-science
 clinical-data-management
 clinical-kidney-transplantation
 clinical-research
+clinical-skills
 clinical-trials
 clinicalepidemiology
 cloud-applications
@@ -276,6 +283,7 @@ data-collection-framework
 data-collection-methods
 data-management
 data-manipulation
+data-patterns
 data-products
 data-science-course
 data-scientists-tools
@@ -299,6 +307,7 @@ desarrollo-de-aplicaciones
 desarrollo-musicalidad
 desarrollo-urbano
 desarrollo-videojuegos-unity
+desenvolvimento-agil-com-java-avancado
 design-principles
 design-thinking-innovation
 designexperiments
@@ -318,6 +327,7 @@ digital-democracy
 digital-literacy
 digital-storytelling
 digitalmedia
+dino101
 disability-awareness
 disaster-preparedness
 discrete-calculus
@@ -358,6 +368,7 @@ effective-content-strategy
 effective-intercultural-communication
 effectuation
 egypt
+ehealth
 ekonometrika
 ekonomicheskaya-sociologiya
 ekonomika-dlya-neekonomistov
@@ -441,6 +452,7 @@ finance-debt
 finance-decisions
 finance-for-non-finance-managers
 finance-for-non-finance-managerses
+finance-for-non-financial-managers
 finance-markets
 finance-value
 financial-accounting-advanced
@@ -473,6 +485,7 @@ french-revolution
 friends-money-bytes
 functional-mri
 functional-mri-2
+fundamentals-corporate-finance
 fundamentals-of-graphic-design
 fundamentals-of-management
 fundamentals-of-managementes
@@ -505,6 +518,7 @@ genbioconductor
 gender-art
 general-chemistry
 genes
+genetic-lab
 genetics-evolution
 genetics-society
 geng-nian-qi
@@ -570,6 +584,7 @@ high-throughput
 hipython
 historical-fiction
 history-israel-part-1
+history-israel-sovereign-state
 history-of-graphic-design
 history-of-rock
 history-of-rock-2
@@ -591,6 +606,7 @@ human-brain
 human-computer-interaction
 human-language
 human-spaceflight
+humanitarian-communication
 hybrid-mobile-development
 icahn-school-of-medicine-at-mount-sinai-acute-and-chronic-rhinosinusitis
 idea-empresa
@@ -615,12 +631,16 @@ infrafinance
 ingles-empresaria-finanza-economia
 ingles-empresarial-gestion-liderazgo
 ingles-empresarial-marketing-ventas
+initprogcpp
+initprogjava
 innova
 innovacion
+innovacion-agro
 innovating-digital-world
 innovations-in-industry-robotics
 innovative-entrepreneur
 innovative-ideas
+institutional-economics
 instructmethodshpe
 integrated-analysis
 integrated-marketing-communications
@@ -663,6 +683,7 @@ introduccion-al-calculo
 introduccionalaestrategia
 introduction-genomics
 introduction-machine-learning
+introduction-to-algorithms
 introduction-to-math
 introduction-to-software-product-management
 investicii-obligacii
@@ -738,6 +759,7 @@ learning-assessment
 learning-how-to-learn
 learning-skills
 learntomod
+les-alliances-qui-changent-les-territoires
 liderazgo-educativo
 life-in-soil
 life-on-other-planets
@@ -747,6 +769,7 @@ linearalgebra2
 listening-notetaking
 literacy-k12
 literacy-teaching-learning
+liuxing-bing-xue
 livestock-farming
 logical-fallacies
 lunwen-xiezuo-chujie
@@ -801,6 +824,8 @@ material-science-engineering
 materials-science
 materials-structures
 math-through-problem-solving
+math115mwf
+math115tth
 mathematics-and-python
 mathematics-sport
 matlab
@@ -833,6 +858,7 @@ mobile-robot
 mobilite-afrique
 mobiurba
 model-thinking
+modeli-antikrizisnogo-jiznennogo-cikla-korporativnyh-sistem
 modelingoptimization
 modelo-negocio
 modern-american-poetry
@@ -856,6 +882,7 @@ motion-and-kinetics
 motivate-people-teams
 movingtothecloud
 mswm
+multimodal-literacies
 multiplas-telas-iphone
 music-and-social-action
 music-as-biology
@@ -863,16 +890,19 @@ music-business-foundations
 music-education-21st-century
 music-ensembles
 music-industry
+music-life
 music-production
 music-productiones
 music-synthesizer
 music-technology
 musicbiz
 musicianship
+musicianship-chords
 muslim-world
 mythology
 nanotechnology1
 nanotechnology2
+natural-attenuation-of-groundwater-contaminants
 nauchno-texnicheski-text
 negociacao
 negociacion
@@ -917,6 +947,7 @@ orientacao-a-objetos-com-java
 origensdavida
 origin-of-life
 origins-universe-solarsystem
+os-virtsecurity
 our-earth
 pai-she
 pap
@@ -938,6 +969,8 @@ persuasive-writing
 pharma-medical-device-innovations
 philanthropist
 philosophy
+philosophy-cognitive-sciences
+philosophy-physical-sciences
 photocourse2
 photocourse3
 photocourse4
@@ -1000,6 +1033,7 @@ programae
 programandoconjava
 programmation-orientee-objet
 programming-languages
+programming-languages-part-b
 project-management
 project-management-basics
 project-planning
@@ -1051,6 +1085,7 @@ reproducible-research
 reproductive-health
 research-methods
 resilience-in-children
+responsiblemanagement
 responsive-web-design
 responsive-website-examples
 responsivedesign
@@ -1174,6 +1209,7 @@ subsistence-marketplaces
 successful-interviewing
 superhero
 supervised-learning
+supply-chain-logistics
 supply-chain-management
 sustainability
 sustainable-agriculture
@@ -1209,8 +1245,10 @@ technology-commercialization
 technology-k12
 technology-of-music-production
 tecnicas-microscopicas-caracterizacion
+teoriya-smi
 terrorism
 tesol-speaking
+tesol-technology
 tesol-writing
 tesoros-de-la-fisica
 text-mining
@@ -1286,6 +1324,7 @@ wei-dian-ying
 wharton-accounting
 wharton-contabilidad-financiera
 wharton-contagious-viral-marketing
+wharton-corruption
 wharton-customer-analytics
 wharton-decision-making-scenarios
 wharton-entrepreneurship-financing-profitabilty
@@ -1307,6 +1346,7 @@ wharton-qiye-jinrong
 wharton-quantitative-modeling
 wharton-risk-models
 wharton-shichang-ying-xiao
+wharton-succcess
 wharton-yunying-guanli
 what-is-news
 what-is-social
@@ -1323,6 +1363,7 @@ writing-for-business
 writing-for-children
 written-constitution
 xin-li-xue-sheng-huo
+xingfa-xue-zong-lun
 xinxi-shehui
 xitong-pingtai-csharp-chengxu-jichu
 yingyang-jiankang
@@ -1336,4 +1377,5 @@ zhexue-daolun
 zhichang-suyang
 zhong-yao-zhi-shi
 zhong-yi-yao-wen-hua
+zhongguorenwenjingdiandaodu
 zika
