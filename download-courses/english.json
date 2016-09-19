@@ -9611,13 +9611,14 @@
       "size": 917932652
     },
     {
-      "courseType": "v2.ondemand",
       "id": "Mue2M1z0EeWqJhKypiGv4w",
-      "slug": "music-life",
       "name": "How Music Can Change Your Life",
+      "courseType": "v2.ondemand",
+      "slug": "music-life",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 174985718
     },
     {
       "id": "w7FFV3l0EeW53BJEfL52qQ",
@@ -9626,205 +9627,478 @@
       "slug": "advanced-algorithms-and-complexity",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 737322965
     },
     {
       "id": "qxpmIMk9EeWfkQ5lkPEvxw",
-      "slug": "data-patterns",
-      "courseType": "v2.ondemand",
       "name": "Pattern Discovery in Data Mining",
+      "courseType": "v2.ondemand",
+      "slug": "data-patterns",
       "primaryLanguageCodes": [
         "en"
       ]
     },
     {
-      "courseType": "v2.ondemand",
       "id": "mZ_Ph_cGEeW_Fg5kRHBRWw",
-      "slug": "history-israel-sovereign-state",
       "name": "The History of Modern Israel -  Part II: Challenges of Israel as a sovereign state",
+      "courseType": "v2.ondemand",
+      "slug": "history-israel-sovereign-state",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 892476817
     },
     {
-      "courseType": "v2.ondemand",
       "id": "QfsUN8O4EeS36yIAC5JMTw",
-      "slug": "ehealth",
       "name": "eHealth: More than just an electronic record",
+      "courseType": "v2.ondemand",
+      "slug": "ehealth",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 543956264
     },
     {
-      "courseType": "v2.ondemand",
       "id": "y5G1vZheEeWF6gpQJiw6hQ",
-      "slug": "dino101",
       "name": "Dino 101: Dinosaur Paleobiology",
+      "courseType": "v2.ondemand",
+      "slug": "dino101",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 1437463705
     },
     {
-      "courseType": "v2.ondemand",
       "id": "yQcuJCOcEeagwg7hVay0BQ",
-      "slug": "introduction-to-algorithms",
       "name": "Algorithms, Part I",
+      "courseType": "v2.ondemand",
+      "slug": "introduction-to-algorithms",
       "primaryLanguageCodes": [
         "en"
       ]
     },
     {
-      "courseType": "v2.ondemand",
-      "name": "Math 115 MWF",
       "id": "g62h3GsNEea-jgq-An2zhw",
+      "name": "Math 115 MWF",
+      "courseType": "v2.ondemand",
       "slug": "math115mwf",
       "primaryLanguageCodes": [
         "en"
       ]
     },
     {
-      "courseType": "v2.ondemand",
-      "name": "Math 115 TTH",
       "id": "jUz1JWunEeay_g7t4qpRXw",
+      "name": "Math 115 TTH",
+      "courseType": "v2.ondemand",
       "slug": "math115tth",
       "primaryLanguageCodes": [
         "en"
       ]
     },
     {
-      "courseType": "v2.ondemand",
       "id": "zwqURwiiEeahpQ5cgS1w4w",
-      "slug": "supply-chain-logistics",
       "name": "Supply Chain Logistics",
+      "courseType": "v2.ondemand",
+      "slug": "supply-chain-logistics",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 118114213
     },
     {
-      "courseType": "v2.ondemand",
       "id": "GNtVE1J0EeaAmBJfqzpttQ",
-      "slug": "wharton-succcess",
       "name": "Success",
+      "courseType": "v2.ondemand",
+      "slug": "wharton-succcess",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 658963204
     },
     {
-      "courseType": "v2.ondemand",
       "id": "7vYbccxZEeWBKQplU3nsJQ",
-      "slug": "humanitarian-communication",
       "name": "Humanitarian communication : Addressing key challenges",
+      "courseType": "v2.ondemand",
+      "slug": "humanitarian-communication",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 683279384
     },
     {
-      "courseType": "v2.ondemand",
       "id": "7wD6e-TPEeWThQoLOXqDhw",
-      "slug": "philosophy-cognitive-sciences",
       "name": "Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences",
+      "courseType": "v2.ondemand",
+      "slug": "philosophy-cognitive-sciences",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 385168226
     },
     {
-      "courseType": "v2.ondemand",
       "id": "gbs1RbnKEeW-xg611XxSbw",
-      "slug": "philosophy-physical-sciences",
       "name": "Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences",
+      "courseType": "v2.ondemand",
+      "slug": "philosophy-physical-sciences",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 530365864
     },
     {
-      "courseType": "v2.ondemand",
-      "name": "Multimodal Literacies: Communication and Learning in the Era of Digital Media ",
       "id": "XDC_NbfLEeS4lSIAC1AIDw",
+      "name": "Multimodal Literacies: Communication and Learning in the Era of Digital Media ",
+      "courseType": "v2.ondemand",
       "slug": "multimodal-literacies",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 1354286782
     },
     {
-      "courseType": "v2.ondemand",
       "id": "7g2jVkeREeabNQ5k0FBNlQ",
-      "slug": "musicianship-chords",
       "name": "Musicianship: Chord Charts, Diatonic Chords, and Minor Keys",
+      "courseType": "v2.ondemand",
+      "slug": "musicianship-chords",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 426572357
     },
     {
-      "courseType": "v2.ondemand",
-      "name": "Classics of Chinese Humanities: Guided Readings",
       "id": "jOA_JhudEeWo5g5SXpDA8Q",
+      "name": "Classics of Chinese Humanities: Guided Readings",
+      "courseType": "v2.ondemand",
       "slug": "classics-chinese-humanities",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 726123804
     },
     {
       "id": "shPviriqEeWVcRIZgPr_Xw",
+      "name": "Natural Attenuation of Groundwater Contaminants: New Paradigms, Technologies, and Applications",
       "courseType": "v2.ondemand",
       "slug": "natural-attenuation-of-groundwater-contaminants",
-      "name": "Natural Attenuation of Groundwater Contaminants: New Paradigms, Technologies, and Applications",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 1050067438
     },
     {
-      "courseType": "v2.ondemand",
       "id": "ZOqHNEONEeaeRgqQhMBV5Q",
-      "slug": "wharton-corruption",
       "name": "Corruption",
+      "courseType": "v2.ondemand",
+      "slug": "wharton-corruption",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 423161940
     },
     {
       "id": "raZNrgNGEeaJMgqy4cb6jQ",
+      "name": "Teach English Now! Technology Enriched Teaching",
       "courseType": "v2.ondemand",
       "slug": "tesol-technology",
-      "name": "Teach English Now! Technology Enriched Teaching",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 544755777
     },
     {
-      "courseType": "v2.ondemand",
       "id": "TCmaO25NEeWdfRLY06XVmw",
-      "slug": "programming-languages-part-b",
       "name": "Programming Languages, Part B",
+      "courseType": "v2.ondemand",
+      "slug": "programming-languages-part-b",
       "primaryLanguageCodes": [
         "en"
       ]
     },
     {
-      "courseType": "v2.ondemand",
       "id": "xpe1YMjNEeWQSAqHNmfP4Q",
-      "slug": "responsiblemanagement",
       "name": "Managing Responsibly: Practicing Sustainability, Responsibility and Ethics",
+      "courseType": "v2.ondemand",
+      "slug": "responsiblemanagement",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 1397558378
     },
     {
-      "courseType": "v2.ondemand",
-      "name": "Teaching and Assessing Clinical Skills",
       "id": "foWk0kzZEeWllxIBvPBb1w",
+      "name": "Teaching and Assessing Clinical Skills",
+      "courseType": "v2.ondemand",
       "slug": "clinical-skills",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 1206855420
     },
     {
-      "courseType": "v2.ondemand",
       "id": "01MWvUeMEeaeRgqQhMBV5Q",
-      "slug": "finance-for-non-financial-managers",
       "name": "Finance for Non-Financial Managers",
+      "courseType": "v2.ondemand",
+      "slug": "finance-for-non-financial-managers",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 621744583
+    },
+    {
+      "id": "It7SNTe-EeWCYBKNeFwojw",
+      "name": "Single Page Web Applications with AngularJS",
+      "courseType": "v2.ondemand",
+      "slug": "single-page-web-apps-with-angularjs",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 240489635
+    },
+    {
+      "id": "nUT4BL5NEeWvOBL771qSDQ",
+      "name": "Understanding Korean Politics",
+      "courseType": "v2.ondemand",
+      "slug": "understanding-korean-politics",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 798110671
+    },
+    {
+      "id": "EH0q6oysEeWIbw4397jVQw",
+      "name": "Graphic Design",
+      "courseType": "v2.ondemand",
+      "slug": "presentation-design",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 355510142
+    },
+    {
+      "id": "qmTCN-vGEeW6zwpd54Xx5w",
+      "name": "The Impact of Technology",
+      "courseType": "v2.ondemand",
+      "slug": "impact-of-technology",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 715201381
+    },
+    {
+      "id": "dWLeLeJREeWLHw5Kc9wFbw",
+      "name": "Maps and the Geospatial Revolution",
+      "courseType": "v2.ondemand",
+      "slug": "geospatial",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 218878509
+    },
+    {
+      "id": "bfE3GBnoEeWg_RJGAuFGjw",
+      "name": "Python Programming: A Concise Introduction",
+      "courseType": "v2.ondemand",
+      "slug": "python-programming-introduction",
       "primaryLanguageCodes": [
         "en"
       ]
+    },
+    {
+      "id": "yeli1ehUEeSBtCIAC3lLIA",
+      "name": "Modern & Contemporary American Poetry",
+      "courseType": "v2.ondemand",
+      "slug": "modpo",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 198094363
+    },
+    {
+      "id": "BNfSeUQ_EeawVwo82dylKw",
+      "name": "Job Success: Get Hired or Promoted in 3 Steps",
+      "courseType": "v2.ondemand",
+      "slug": "get-hired",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 135998999
+    },
+    {
+      "id": "oIIVJqNXEeWM5RIHOLu8Dw",
+      "name": "Introduction to Chemistry:  Structures and Solutions",
+      "courseType": "v2.ondemand",
+      "slug": "basic-chemistry",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 1199093094
+    },
+    {
+      "id": "lJgyVBhjEeammQ6NfVLBSw",
+      "name": "Introduction to Data Analytics for Business",
+      "courseType": "v2.ondemand",
+      "slug": "data-analytics-business",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 586734870
+    },
+    {
+      "id": "IJOwrRbLEeWKlgqs7LdhRw",
+      "name": "Learning to Teach Online",
+      "courseType": "v2.ondemand",
+      "slug": "teach-online",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "id": "0MxqCTygEea1gAouz62QPw",
+      "name": "Introduction to Recommender Systems:  Non-Personalized and Content-Based",
+      "courseType": "v2.ondemand",
+      "slug": "recommender-systems-introduction",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "id": "pBpdFgq4EeafmAoLZ2pYtw",
+      "name": "Introduction into General Theory of Relativity",
+      "courseType": "v2.ondemand",
+      "slug": "relativity-theory",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 3113584481
+    },
+    {
+      "id": "YiRLBRFqEeaRgQ4evS8KlQ",
+      "name": "Finance for Non-Finance Professionals",
+      "courseType": "v2.ondemand",
+      "slug": "finance-for-non-finance-professionals",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 674506646
+    },
+    {
+      "id": "TsI6pDypEea3LQ6P_ZHapQ",
+      "name": "Introduction to UI Design",
+      "courseType": "v2.ondemand",
+      "slug": "ui-design",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "id": "b-UZI43PEeWTzg6WBWinhQ",
+      "name": "Global Environmental Management",
+      "courseType": "v2.ondemand",
+      "slug": "global-environmental-management",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 1066888177
+    },
+    {
+      "id": "2vaX6li0Eeaw3QoEHqdPHw",
+      "name": "The Power of Team Culture",
+      "courseType": "v2.ondemand",
+      "slug": "team-culture",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "id": "FuHL-RuOEeSduyIAC0iV4g",
+      "name": "Economics of Money and Banking",
+      "courseType": "v2.ondemand",
+      "slug": "money-banking",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 4546131774
+    },
+    {
+      "id": "0GYQX5MEEeWBAQoVMoNgNQ",
+      "name": "Public Economics",
+      "courseType": "v2.ondemand",
+      "slug": "public-economics",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 950144955
+    },
+    {
+      "id": "nHYB8ucfEeWqfA4JDMODnw",
+      "name": "Problem Solving Skills for University Success",
+      "courseType": "v2.ondemand",
+      "slug": "problem-solving-skills",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 569206559
+    },
+    {
+      "id": "bbxCwag3EeWbLRJn4j8c4Q",
+      "name": "Journalism Skills for Engaged Citizens",
+      "courseType": "v2.ondemand",
+      "slug": "citizenjournalism",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 892588247
+    },
+    {
+      "id": "xUxjEeztEeW4_wr--Yv6Aw",
+      "name": "Getting started with Augmented Reality",
+      "courseType": "v2.ondemand",
+      "slug": "augmented-reality",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 492261332
+    },
+    {
+      "id": "yWgLXKT1EeWn5gqSg7NNrQ",
+      "name": "Launching New Ventures",
+      "courseType": "v2.ondemand",
+      "slug": "new-ventures",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 2814289396
+    },
+    {
+      "id": "Is9jHhyKEeaHoAovRHhd_Q",
+      "name": "Understanding Einstein: The Special Theory of Relativity",
+      "courseType": "v2.ondemand",
+      "slug": "einstein-relativity",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 3837212255
+    },
+    {
+      "id": "JJ1g_B6sEeWFIxLDnS6_kQ",
+      "name": "The Meat We Eat",
+      "courseType": "v2.ondemand",
+      "slug": "meat-we-eat",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 1248522840
+    },
+    {
+      "id": "hFgchlMeEeaVmgqzlkasOw",
+      "name": "Studying at Japanese Universities",
+      "courseType": "v2.ondemand",
+      "slug": "study-in-japan",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 493721825
     }
   ]
 }

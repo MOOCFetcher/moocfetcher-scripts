@@ -1,4 +1,5 @@
 2-speed-it
+20cnwm
 2d-cad
 3d-cad
 3d-printing
@@ -16,6 +17,7 @@ adhd-everyday-strategies
 adjective-clauses
 administracion-estrategica
 adolescenthealth
+advanced-algorithms-and-complexity
 advanced-business-strategy
 advanced-calculus
 advanced-chemistry
@@ -44,6 +46,7 @@ algorithmic-thinking-2
 algorithmic-toolbox
 algorithms-on-graphs-and-trees
 algorithms-on-strings
+algoritmizacija-vychislenij
 altruism
 americalatina
 american-law
@@ -76,8 +79,10 @@ approximation-algorithms-part-2
 aprender
 aprendiendo-a-aprender
 aprendo
+arabic-for-media
 archoftitus
 arctic-introduction-climate
+arduino-aplicaciones
 arduino-platform
 aristotle
 art-activity
@@ -90,10 +95,13 @@ astro
 astrobiology
 astronomy
 audio-engineering
+augmented-reality
 aulaconstructivista
 autism-spectrum-disorder
 automata-system-validation
 bacteria
+bajemostemperatura
+basic-chemistry
 basic-statistics
 bayesian
 bayesian-statistics
@@ -165,6 +173,7 @@ calculo-4
 calculodiferencial
 calculus-diferansiyel-hesap
 calculus1
+calvin
 canal-distribucion
 cancer
 capital-markets
@@ -192,15 +201,18 @@ chronic-pain
 chuangxin-siwei
 chuangyi-chuangxin-biange
 ciencia
+citizenjournalism
 clasificacion-imagenes
 classical-composition
 classical-sociological-theory
+classics-chinese-humanities
 client-needs-and-software-requirements
 climate-change-mitigation
 climate-science
 clinical-data-management
 clinical-kidney-transplantation
 clinical-research
+clinical-skills
 clinical-trials
 clinicalepidemiology
 cloud-applications
@@ -272,6 +284,7 @@ dangdai-yingyong-xinli-xue
 daojiadezhihui
 daoyan-siwei-weiyingren
 data-analysis-tools
+data-analytics-business
 data-cleaning
 data-collection-framework
 data-collection-methods
@@ -300,6 +313,7 @@ desarrollo-de-aplicaciones
 desarrollo-musicalidad
 desarrollo-urbano
 desarrollo-videojuegos-unity
+desenvolvimento-agil-com-java-avancado
 design-principles
 design-thinking-innovation
 designexperiments
@@ -308,6 +322,7 @@ designing-organization
 deteccion-objetos
 develop-your-musicianship
 developer-iot
+developpement-durable
 developpement-urbain
 diabetes
 dianci
@@ -319,6 +334,7 @@ digital-democracy
 digital-literacy
 digital-storytelling
 digitalmedia
+dino101
 disability-awareness
 disaster-preparedness
 discrete-calculus
@@ -359,6 +375,8 @@ effective-content-strategy
 effective-intercultural-communication
 effectuation
 egypt
+ehealth
+einstein-relativity
 ekonometrika
 ekonomicheskaya-sociologiya
 ekonomika-dlya-neekonomistov
@@ -442,6 +460,8 @@ finance-debt
 finance-decisions
 finance-for-non-finance-managers
 finance-for-non-finance-managerses
+finance-for-non-finance-professionals
+finance-for-non-financial-managers
 finance-markets
 finance-value
 financial-accounting-advanced
@@ -474,6 +494,7 @@ french-revolution
 friends-money-bytes
 functional-mri
 functional-mri-2
+fundamentals-corporate-finance
 fundamentals-of-graphic-design
 fundamentals-of-management
 fundamentals-of-managementes
@@ -506,6 +527,7 @@ genbioconductor
 gender-art
 general-chemistry
 genes
+genetic-lab
 genetics-evolution
 genetics-society
 geng-nian-qi
@@ -515,6 +537,7 @@ geo-enviro-analysis
 geomatique
 geopoliticaygobernanzaglobal
 geopolitique
+geospatial
 gestao-escolar
 gestion-de-productividad
 gestion-de-proyectos
@@ -524,6 +547,7 @@ gestion-organizaciones-efectivas
 gestionar-personas
 gestionempresarialpyme
 get-active
+get-hired
 getting-started-agile
 getting-started-with-essay-writing
 ghresponder
@@ -532,6 +556,7 @@ gis-data-design
 gis-imgagery-model-apply
 global-diplomacy
 global-energy
+global-environmental-management
 global-financial-crisis
 global-health
 global-health-diplomacy
@@ -571,6 +596,7 @@ high-throughput
 hipython
 historical-fiction
 history-israel-part-1
+history-israel-sovereign-state
 history-of-graphic-design
 history-of-rock
 history-of-rock-2
@@ -592,6 +618,7 @@ human-brain
 human-computer-interaction
 human-language
 human-spaceflight
+humanitarian-communication
 hybrid-mobile-development
 icahn-school-of-medicine-at-mount-sinai-acute-and-chronic-rhinosinusitis
 idea-empresa
@@ -599,6 +626,7 @@ ignite-creativity
 ilob
 image-making
 impact-investing-etre-acteur
+impact-of-technology
 impactinvestinginnover
 importance-of-listening
 income-statement
@@ -616,12 +644,16 @@ infrafinance
 ingles-empresaria-finanza-economia
 ingles-empresarial-gestion-liderazgo
 ingles-empresarial-marketing-ventas
+initprogcpp
+initprogjava
 innova
 innovacion
+innovacion-agro
 innovating-digital-world
 innovations-in-industry-robotics
 innovative-entrepreneur
 innovative-ideas
+institutional-economics
 instructmethodshpe
 integrated-analysis
 integrated-marketing-communications
@@ -718,6 +750,7 @@ kongzi
 korean-economy
 kuaisu-xuexi
 kunqu-opera
+lancer-startup
 language-theories
 latex
 lavenir-de-la-decision
@@ -739,6 +772,7 @@ learning-assessment
 learning-how-to-learn
 learning-skills
 learntomod
+les-alliances-qui-changent-les-territoires
 lesson-design
 liderazgo-educativo
 life-in-soil
@@ -749,6 +783,7 @@ linearalgebra2
 listening-notetaking
 literacy-k12
 literacy-teaching-learning
+liuxing-bing-xue
 livestock-farming
 logical-fallacies
 lunwen-xiezuo-chujie
@@ -807,6 +842,7 @@ mathematics-and-python
 mathematics-sport
 matlab
 max-weber
+meat-we-eat
 mecanique-lagrangienne
 mecanique-newton
 mecanique-point-materiel
@@ -835,6 +871,7 @@ mobile-robot
 mobilite-afrique
 mobiurba
 model-thinking
+modeli-antikrizisnogo-jiznennogo-cikla-korporativnyh-sistem
 modelingoptimization
 modelo-negocio
 modern-american-poetry
@@ -846,9 +883,11 @@ modern-postmodern-2
 modern-world
 modern-world-2
 modernmiddleeast2
+modpo
 molecular-evolution
 mom1
 monde-action
+money-banking
 moral-politics
 moralities
 more-chinese-for-beginners
@@ -858,6 +897,7 @@ motion-and-kinetics
 motivate-people-teams
 movingtothecloud
 mswm
+multimodal-literacies
 multiplas-telas-iphone
 music-and-social-action
 music-as-biology
@@ -865,16 +905,19 @@ music-business-foundations
 music-education-21st-century
 music-ensembles
 music-industry
+music-life
 music-production
 music-productiones
 music-synthesizer
 music-technology
 musicbiz
 musicianship
+musicianship-chords
 muslim-world
 mythology
 nanotechnology1
 nanotechnology2
+natural-attenuation-of-groundwater-contaminants
 nauchno-texnicheski-text
 negociacao
 negociacion
@@ -888,6 +931,8 @@ networks-illustrated
 networksonline
 neuroeconomics
 neurohacking
+new-ventures
+new-ventures-cn
 newbusinessmodel
 newnordicdiet
 nlpintro
@@ -919,6 +964,7 @@ orientacao-a-objetos-com-java
 origensdavida
 origin-of-life
 origins-universe-solarsystem
+os-virtsecurity
 our-earth
 pai-she
 pap
@@ -940,6 +986,8 @@ persuasive-writing
 pharma-medical-device-innovations
 philanthropist
 philosophy
+philosophy-cognitive-sciences
+philosophy-physical-sciences
 photocourse2
 photocourse3
 photocourse4
@@ -972,6 +1020,7 @@ practical-machine-learning
 prcampaign
 pre-calculus
 pregnancychildbirth
+presentation-design
 preserving-cultural-heritage
 presupuestos-proyecto
 pricing-strategy
@@ -985,6 +1034,7 @@ probability-intro
 probability-theory-basics
 probas2
 problem-solving
+problem-solving-skills
 problem-solvinges
 process-improvement
 process-mining
@@ -1010,8 +1060,10 @@ property-law-and-economics
 protoolsbasics
 prresearch
 psychological-first-aid
+psychology-science-intro
 psykhodyahnostyka
 psykhologiya-truda
+public-economics
 public-policy
 public-relations
 public-speaking
@@ -1045,6 +1097,7 @@ redes-sociales-caracteristicas
 regression-modeling-practice
 regression-models
 relativita-meccanica-quantistica
+relativity-theory
 renewable-energy
 rengong-zhineng
 renqun-wangluo
@@ -1053,6 +1106,7 @@ reproducible-research
 reproductive-health
 research-methods
 resilience-in-children
+responsiblemanagement
 responsive-web-design
 responsive-website-examples
 responsivedesign
@@ -1108,6 +1162,7 @@ shengwu-huaxue
 shengwu-yanhua
 shipin-anquan
 shuju-jiegou-suanfa
+single-page-web-apps-with-angularjs
 single-variable-calculus
 sistemas-digitales
 sitedance
@@ -1168,7 +1223,9 @@ strategy-law-ethics
 strengthening-your-widening-network
 string-quartet
 structural-equation-model-cantonese
+structures
 struktura-kapitala-kompanii
+study-in-japan
 study-in-usa
 su-dongpo
 suanfa-jichu
@@ -1176,6 +1233,7 @@ subsistence-marketplaces
 successful-interviewing
 superhero
 supervised-learning
+supply-chain-logistics
 supply-chain-management
 sustainability
 sustainable-agriculture
@@ -1192,6 +1250,7 @@ systems-science-obesity
 systems-thinking
 taknulujia-alnnanu1
 taknulujia-alnnanu2
+tangpoems
 tdd-desenvolvimento-de-software-guiado-por-testes
 teach-violin-lessons
 teacher-curriculum
@@ -1211,8 +1270,10 @@ technology-commercialization
 technology-k12
 technology-of-music-production
 tecnicas-microscopicas-caracterizacion
+teoriya-smi
 terrorism
 tesol-speaking
+tesol-technology
 tesol-writing
 tesoros-de-la-fisica
 text-mining
@@ -1240,6 +1301,7 @@ typography
 ui
 understanding-arguments
 understanding-financial-markets
+understanding-korean-politics
 understandingterror
 undpcso
 unethical-decision-making
@@ -1289,6 +1351,7 @@ wei-dian-ying
 wharton-accounting
 wharton-contabilidad-financiera
 wharton-contagious-viral-marketing
+wharton-corruption
 wharton-customer-analytics
 wharton-decision-making-scenarios
 wharton-entrepreneurship-financing-profitabilty
@@ -1310,6 +1373,7 @@ wharton-qiye-jinrong
 wharton-quantitative-modeling
 wharton-risk-models
 wharton-shichang-ying-xiao
+wharton-succcess
 wharton-yunying-guanli
 what-is-news
 what-is-social
@@ -1326,6 +1390,7 @@ writing-for-business
 writing-for-children
 written-constitution
 xin-li-xue-sheng-huo
+xingfa-xue-zong-lun
 xinxi-shehui
 xitong-pingtai-csharp-chengxu-jichu
 yingyang-jiankang
@@ -1339,4 +1404,5 @@ zhexue-daolun
 zhichang-suyang
 zhong-yao-zhi-shi
 zhong-yi-yao-wen-hua
+zhongguorenwenjingdiandaodu
 zika

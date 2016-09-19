@@ -81,6 +81,7 @@ aprendo
 arabic-for-media
 archoftitus
 arctic-introduction-climate
+arduino-aplicaciones
 arduino-platform
 aristotle
 art-activity
@@ -93,10 +94,13 @@ astro
 astrobiology
 astronomy
 audio-engineering
+augmented-reality
 aulaconstructivista
 autism-spectrum-disorder
 automata-system-validation
 bacteria
+bajemostemperatura
+basic-chemistry
 basic-statistics
 bayesian
 bayesian-statistics
@@ -196,6 +200,7 @@ chronic-pain
 chuangxin-siwei
 chuangyi-chuangxin-biange
 ciencia
+citizenjournalism
 clasificacion-imagenes
 classical-composition
 classical-sociological-theory
@@ -278,6 +283,7 @@ dangdai-yingyong-xinli-xue
 daojiadezhihui
 daoyan-siwei-weiyingren
 data-analysis-tools
+data-analytics-business
 data-cleaning
 data-collection-framework
 data-collection-methods
@@ -316,6 +322,7 @@ designing-organization
 deteccion-objetos
 develop-your-musicianship
 developer-iot
+developpement-durable
 developpement-urbain
 diabetes
 dianci
@@ -369,6 +376,7 @@ effective-intercultural-communication
 effectuation
 egypt
 ehealth
+einstein-relativity
 ekonometrika
 ekonomicheskaya-sociologiya
 ekonomika-dlya-neekonomistov
@@ -452,6 +460,7 @@ finance-debt
 finance-decisions
 finance-for-non-finance-managers
 finance-for-non-finance-managerses
+finance-for-non-finance-professionals
 finance-for-non-financial-managers
 finance-markets
 finance-value
@@ -528,6 +537,7 @@ geo-enviro-analysis
 geomatique
 geopoliticaygobernanzaglobal
 geopolitique
+geospatial
 gestao-escolar
 gestion-de-productividad
 gestion-de-proyectos
@@ -537,6 +547,7 @@ gestion-organizaciones-efectivas
 gestionar-personas
 gestionempresarialpyme
 get-active
+get-hired
 getting-started-agile
 getting-started-with-essay-writing
 ghresponder
@@ -545,6 +556,7 @@ gis-data-design
 gis-imgagery-model-apply
 global-diplomacy
 global-energy
+global-environmental-management
 global-financial-crisis
 global-health
 global-health-diplomacy
@@ -614,6 +626,7 @@ ignite-creativity
 ilob
 image-making
 impact-investing-etre-acteur
+impact-of-technology
 impactinvestinginnover
 importance-of-listening
 income-statement
@@ -738,6 +751,7 @@ kongzi
 korean-economy
 kuaisu-xuexi
 kunqu-opera
+lancer-startup
 language-theories
 latex
 lavenir-de-la-decision
@@ -830,6 +844,7 @@ mathematics-and-python
 mathematics-sport
 matlab
 max-weber
+meat-we-eat
 mecanique-lagrangienne
 mecanique-newton
 mecanique-point-materiel
@@ -870,9 +885,11 @@ modern-postmodern-2
 modern-world
 modern-world-2
 modernmiddleeast2
+modpo
 molecular-evolution
 mom1
 monde-action
+money-banking
 moral-politics
 moralities
 more-chinese-for-beginners
@@ -916,6 +933,8 @@ networks-illustrated
 networksonline
 neuroeconomics
 neurohacking
+new-ventures
+new-ventures-cn
 newbusinessmodel
 newnordicdiet
 nlpintro
@@ -1003,6 +1022,7 @@ practical-machine-learning
 prcampaign
 pre-calculus
 pregnancychildbirth
+presentation-design
 preserving-cultural-heritage
 presupuestos-proyecto
 pricing-strategy
@@ -1016,6 +1036,7 @@ probability-intro
 probability-theory-basics
 probas2
 problem-solving
+problem-solving-skills
 problem-solvinges
 process-improvement
 process-mining
@@ -1042,8 +1063,10 @@ property-law-and-economics
 protoolsbasics
 prresearch
 psychological-first-aid
+psychology-science-intro
 psykhodyahnostyka
 psykhologiya-truda
+public-economics
 public-policy
 public-relations
 public-speaking
@@ -1052,6 +1075,7 @@ python-data
 python-databases
 python-genomics
 python-network-data
+python-programming-introduction
 qprecaires
 qualitative-methods
 quality-healthcare
@@ -1071,12 +1095,14 @@ real-life-data-science
 real-time-systems
 recherche-documentaire
 recommender-systems
+recommender-systems-introduction
 recruiting-hiring-onboarding-employees
 red-social
 redes-sociales-caracteristicas
 regression-modeling-practice
 regression-models
 relativita-meccanica-quantistica
+relativity-theory
 renewable-energy
 rengong-zhineng
 renqun-wangluo
@@ -1141,6 +1167,7 @@ shengwu-huaxue
 shengwu-yanhua
 shipin-anquan
 shuju-jiegou-suanfa
+single-page-web-apps-with-angularjs
 single-variable-calculus
 sistemas-digitales
 sitedance
@@ -1201,7 +1228,9 @@ strategy-law-ethics
 strengthening-your-widening-network
 string-quartet
 structural-equation-model-cantonese
+structures
 struktura-kapitala-kompanii
+study-in-japan
 study-in-usa
 su-dongpo
 suanfa-jichu
@@ -1226,7 +1255,9 @@ systems-science-obesity
 systems-thinking
 taknulujia-alnnanu1
 taknulujia-alnnanu2
+tangpoems
 tdd-desenvolvimento-de-software-guiado-por-testes
+teach-online
 teach-violin-lessons
 teacher-curriculum
 teacher-relationships
@@ -1240,6 +1271,7 @@ teaching-learning
 teaching-plan
 teaching-secondary
 teaching-strategies
+team-culture
 tech-startup
 technology-commercialization
 technology-k12
@@ -1273,8 +1305,10 @@ trigonometry
 types-of-conflict
 typography
 ui
+ui-design
 understanding-arguments
 understanding-financial-markets
+understanding-korean-politics
 understandingterror
 undpcso
 unethical-decision-making
