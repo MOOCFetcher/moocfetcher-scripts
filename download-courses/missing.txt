@@ -1,10 +1,5 @@
-data-patterns
-introduction-to-algorithms
+ideas
 math115mwf
 math115tth
-programming-languages-part-b
-python-programming-introduction
-recommender-systems-introduction
-teach-online
-team-culture
-ui-design
+mindfulness
+photography-1
