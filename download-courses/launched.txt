@@ -31,6 +31,7 @@ advanced-interviewing
 advanced-java-concurrency
 advanced-linear-models-data-science
 advanced-neurobiolog1
+advanced-r
 advanced-seo-strategies
 advanced-writing
 advancedneurobiologyii
@@ -54,6 +55,7 @@ algorithms-divide-conquer
 algorithms-on-graphs-and-trees
 algorithms-on-strings
 algoritmizacija-vychislenij
+alimentacion-vuelta-al-mundo
 alta-direccion
 altruism
 americalatina
@@ -137,8 +139,10 @@ big-data-management
 big-history
 big-ideas
 bigdata-analytics
+bilingual
 bim-sumo
 bim-yingyong
+biocontainment
 bioelectricity
 bioinformatics
 bioinformatics-methods-1
@@ -193,12 +197,14 @@ camino-excelencia-gestion-proyectos
 canal-distribucion
 cancer
 capital-markets
+capital-markets-financial-institutes
 capitalismo-consciente
 career-advancement
 career-brand-development-self-coaching
 career-exploration
 career-planning
 careerdevelopment
+cartographie
 case-studies-business-analytics-accenture
 cataract-surgery
 causaleffects
@@ -247,6 +253,7 @@ coaching-practices
 coaching-teachers
 coberturas-de-riesgo
 codapps
+collaborative-filtering
 college-life
 combinatorial-game-theory
 common-law
@@ -302,6 +309,7 @@ creative-problem-solving
 creatividad
 creativity-innovation
 critical-management
+critical-reasoning
 cryo-em
 crypto
 cryptography
@@ -355,6 +363,7 @@ desarrollo-videojuegos-unity
 desenvolvimento-agil-com-java-avancado
 design
 design-principles
+design-research
 design-thinking-innovation
 designexperiments
 designing-cities
@@ -389,6 +398,8 @@ dog-emotion-and-cognition
 dopage
 doping
 droits-de-lhomme
+drug-discovery
+dsp
 duke-behavioral-finance
 duke-programming-web
 dwbizintelligence
@@ -511,6 +522,7 @@ fibonacci
 filosofia-cultury
 finance-debt
 finance-decisions
+finance-economics-english
 finance-for-non-finance-managers
 finance-for-non-finance-managerses
 finance-for-non-finance-professionals
@@ -609,6 +621,7 @@ ghresponder
 gis
 gis-data-design
 gis-imgagery-model-apply
+global-business
 global-diplomacy
 global-energy
 global-environmental-management
@@ -641,6 +654,7 @@ hardware-ios
 hardware-security
 hcqualityimprovement
 health-care-innovation
+health-che
 health-for-all
 health-informatics-professional
 healthcare-delivery-providers
@@ -761,6 +775,7 @@ introduccion-al-calculo
 introduccionalaestrategia
 introduction-genomics
 introduction-machine-learning
+introduction-psych
 introduction-to-algorithms
 introduction-to-math
 introduction-to-software-product-management
@@ -782,6 +797,7 @@ iosswift
 iot
 iot-architecture
 iot-augmented-reality-technologies
+iot-connectivity-security
 iot-devices
 iot-software-architecture
 israel
@@ -879,6 +895,7 @@ magnetics-power-electronic-converters
 make-comic-books
 making-architecture
 makrojekonomika
+management-leadership-english
 management-philosophy
 managerial-accounting
 managerial-accounting-analysis
@@ -909,6 +926,7 @@ marketing-digital-pilares
 marketing-iese
 marketing-mix
 marketing-plan
+marketing-sales-english
 marketingplan
 marketingverde
 mastering-bitumen
@@ -1049,6 +1067,7 @@ ocenka-stoimosti-kompanii
 oilandgas
 olympic-games
 onlinegames
+operations
 operations-management
 operations-management-1
 operations-strategy
@@ -1070,6 +1089,7 @@ pai-she
 pap
 papers-molecular-genetics
 parallelnoye-programmirovaniye
+parasitology
 parprog1
 partenariats-qui-changent-le-monde
 passport-to-india
@@ -1249,6 +1269,8 @@ ruhe-xuexi
 running-design-sprints
 russian
 sales-strategies
+sanitation
+sanitation-fr
 satellitecommunications
 scanfilmtv
 schedule-projects
@@ -1447,6 +1469,7 @@ user-research
 va-health-care
 valuation
 valuation-methods
+valuation-multiples
 value-creation
 venture-capital
 verb-passives
