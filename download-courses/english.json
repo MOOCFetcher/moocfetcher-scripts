@@ -11194,6 +11194,166 @@
         "en"
       ],
       "size": 473826264
+    },
+    {
+      "id": "RGh8fgWwEeakgQ4xJu4oAw",
+      "name": "Problem Solving with Excel ",
+      "courseType": "v2.ondemand",
+      "slug": "excel-analysis",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 394902286
+    },
+    {
+      "id": "aF0NmQC4Eea_zg6oQWTINQ",
+      "name": "Machine Design Part I",
+      "courseType": "v2.ondemand",
+      "slug": "machine-design1",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 684676100
+    },
+    {
+      "id": "8cqMUG6eEea2_hI5YizWBw",
+      "name": "Building blocks of trading strategies",
+      "courseType": "v2.ondemand",
+      "slug": "building-blocks",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 561658212
+    },
+    {
+      "id": "xcnSEUkuEeaS0App9RAxLw",
+      "name": "Process Improvement",
+      "courseType": "v2.ondemand",
+      "slug": "process-improvement-1",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 1880982420
+    },
+    {
+      "id": "N0WEeCJBEeaDJw40-0xSFQ",
+      "name": "Digital Transformations",
+      "courseType": "v2.ondemand",
+      "slug": "digital-transformations",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 562986452
+    },
+    {
+      "id": "BpXc5-SWEeWThQoLOXqDhw",
+      "name": "Cloud Networking",
+      "courseType": "v2.ondemand",
+      "slug": "cloud-networking",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 2032124893
+    },
+    {
+      "id": "YXDFz6KXEeWM5RIHOLu8Dw",
+      "name": "Chemerinsky on Constitutional Law - The Structure of Government",
+      "courseType": "v2.ondemand",
+      "slug": "chemerinsky-on-constitutional-law-structure-of-government",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 1329317408
+    },
+    {
+      "id": "Kdf551i6Eeaw3QoEHqdPHw",
+      "name": "Building High-Performing Teams",
+      "courseType": "v2.ondemand",
+      "slug": "high-performing-teams",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 456786531
+    },
+    {
+      "id": "nGCOUS22EeamRw4FTpNrUQ",
+      "name": "Conjunctions, Connectives, and Adverb Clauses",
+      "courseType": "v2.ondemand",
+      "slug": "conjunctions-connectives-adverb-clauses",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 152814487
+    },
+    {
+      "id": "P_O_iZfiEeWZyg6bf_Oxkw",
+      "name": "Implant Dentistry",
+      "courseType": "v2.ondemand",
+      "slug": "implant-dentistry",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 656735274
+    },
+    {
+      "id": "RZ1S0B0MEeacvQ6cODzg5Q",
+      "name": "Introduction to Data Science in Python",
+      "courseType": "v2.ondemand",
+      "slug": "python-data-analysis",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 408235977
+    },
+    {
+      "id": "8WhRBnAyEeauNQq0iWkxiw",
+      "name": "The Making of the US President: A Short History in Five Elections",
+      "courseType": "v2.ondemand",
+      "slug": "making-us-president",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 651534117
+    },
+    {
+      "id": "dRFPgC-GEeWUWxIOAnoaFQ",
+      "name": "System Validation (2): Model process behaviour",
+      "courseType": "v2.ondemand",
+      "slug": "system-validation-behavior",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 360844053
+    },
+    {
+      "id": "W9fZBNdhEeWVxxJZNAJSHQ",
+      "name": "Academic Discussions in English",
+      "courseType": "v2.ondemand",
+      "slug": "academic-discussion-english",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 123076023
+    },
+    {
+      "id": "UinDuXYNEea55hKVJ963NQ",
+      "name": "ART of the MOOC: Arte Público y Pedagogía",
+      "courseType": "v2.ondemand",
+      "slug": "arte-publico-pedagogia",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 1417602118
+    },
+    {
+      "id": "AJrvmCjuEeam2xJnFSlCww",
+      "name": "Strategies for Teaching Perfect Tenses and Modals",
+      "courseType": "v2.ondemand",
+      "slug": "teaching-verb-tenses",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 266878914
     }
   ]
 }
