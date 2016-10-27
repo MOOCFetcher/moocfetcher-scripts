@@ -1,4 +1,4 @@
-// Sync English language course materials from MOOCFetcher server to local filesystem.
+// Dumps a bunch of aws CLI commands to sync English language courses from S3.
 package main
 
 import (
@@ -7,8 +7,6 @@ import (
 	"fmt"
 	"io/ioutil"
 	"os"
-	"os/exec"
-	"os/signal"
 	"sort"
 	"strings"
 
@@ -39,7 +37,7 @@ type courses struct {
 func main() {
 	// Parse flags
 	path := flag.String("path", ".", "Filesystem path to sync courses at")
-	check := flag.Bool("check", false, "Check data on server. Don’t download anything")
+	script := flag.String("script", "sync.bat", "Check data on server. Don’t download anything")
 
 	flag.Usage = func() {
 		fmt.Fprintln(os.Stderr, `Sync English language course materials from MOOCFetcher server with local filesystem.`)
@@ -91,33 +89,23 @@ func main() {
 	}
 	fmt.Printf("%d English language courses found\n", len(en))
 
-	// Exit if -check flag was set
-	if *check {
-		os.Exit(0)
-	}
-
 	sort.Strings(en)
 
-	// Signal Handling
-	sigc := make(chan os.Signal, 1)
-	signal.Notify(sigc, os.Interrupt, os.Kill)
-	go func() {
-		_ = <-sigc
-		fmt.Println("ctrl+c pressed")
-		os.Exit(1)
-	}()
-
-	// Run aws sync command for each english course.
+	// Generate aws sync command for each english course.
+	var commands []string
 	for _, slug := range en {
 		cmd := "aws"
 		args := []string{"s3", "sync", fmt.Sprintf("s3://%s/coursera/%s/", S3_BUCKET_MOOCFETCHER_COURSE_ARCHIVE, slug), fmt.Sprintf("%s%c%s", *path, os.PathSeparator, slug)}
-		fmt.Printf("%s %s\n", cmd, strings.Join(args, " "))
-		c := exec.Command(cmd, args...)
-		c.Stdout = os.Stdout
-		c.Stderr = os.Stderr
-		if err := c.Run(); err != nil {
-			fmt.Println(err.Error())
-			os.Exit(1)
-		}
+		commands = append(commands, fmt.Sprintf("%s %s", cmd, strings.Join(args, " ")))
+	}
+
+	eol := "\n"
+	if strings.HasSuffix(*script, ".bat") {
+		eol = "\r\n"
+	}
+	err = ioutil.WriteFile(*script, []byte(strings.Join(commands, eol)), 0744)
+	if err != nil {
+		fmt.Println(err)
+		os.Exit(1)
 	}
 }
