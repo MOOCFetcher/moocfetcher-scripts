@@ -75,6 +75,7 @@ analytics-tableau
 anatomy
 ancient-greeks
 ancient-marine-reptiles
+ancientegypt
 android-app
 android-programming
 android-programming-2
@@ -110,6 +111,7 @@ arts-culture-strategy
 astro
 astrobiology
 astronomy
+astronomy-technology
 atc21s
 audio-engineering
 audio-signal-processing
@@ -215,6 +217,7 @@ cataract-surgery
 causaleffects
 cennye-bumagi-pravovoe-regulirovanie
 chang-jian-man-xing-bing
+change
 change-for-the-finance-professional
 changetheworld
 channel-management
@@ -287,6 +290,7 @@ conflict-resolution-skills
 conjunctions-connectives-adverb-clauses
 constitution
 construction-project-management
+construction-scheduling
 contabilidad
 content-management-strategy
 contrats
@@ -355,6 +359,7 @@ datasci2
 datasci3
 datavisualization
 dataviz
+dataviz-design
 datos-tecnicas
 decentralization-africa
 deceptiondetox
@@ -369,6 +374,7 @@ desarrollo-de-aplicaciones
 desarrollo-musicalidad
 desarrollo-urbano
 desarrollo-videojuegos-unity
+descriptive-statistics-statistical-distributions-business-application
 desenvolvimento-agil-com-java-avancado
 design
 design-principles
@@ -660,6 +666,7 @@ guitar
 guitarra
 habilidades-negociacion
 hadoop
+hanzi
 happiness
 hardware-ios
 hardware-security
@@ -982,6 +989,7 @@ microeconomics
 microeconomics-part1
 microeconomics-part2
 mikroekonomika
+mindfulness
 missing-data
 mktgerencial
 ml-classification
@@ -1127,6 +1135,7 @@ photocourse2
 photocourse3
 photocourse4
 photography
+photography-1
 physical-chemistry
 physics-global-project
 physiology
@@ -1145,6 +1154,7 @@ popularity
 population-health
 portfolio-management
 portfolio-risk-management
+portfolio-selection-risk-management
 positioning
 positive-psychology
 postharvest
@@ -1241,6 +1251,7 @@ recommender-systems-introduction
 recruiting-hiring-onboarding-employees
 red-social
 redes-sociales-caracteristicas
+redes-sociales-estrategias
 regression-modeling-practice
 regression-models
 relativita-meccanica-quantistica
@@ -1325,6 +1336,7 @@ smartphone-emerging-technologies
 smm-campaniya
 smm-osnovy
 smm-platformy
+social-business-model
 social-computing
 social-entrepreneurship-opportunities
 social-imc
@@ -1370,6 +1382,7 @@ statistical-thermodynamics
 stats-for-data-analysis
 strategic-business-analytics
 strategic-career-self-management
+strategic-innovation
 strategic-management
 strategic-planning-execution
 strategic-self-marketing-personal-branding
@@ -1467,6 +1480,7 @@ types-of-conflict
 typography
 ui
 ui-design
+uncertainty-marketing-decisions
 understanding-arguments
 understanding-financial-markets
 understanding-korean-politics

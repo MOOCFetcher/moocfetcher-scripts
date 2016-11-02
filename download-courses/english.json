@@ -9681,24 +9681,6 @@
       "size": 1221025925
     },
     {
-      "id": "g62h3GsNEea-jgq-An2zhw",
-      "name": "Math 115 MWF",
-      "courseType": "v2.ondemand",
-      "slug": "math115mwf",
-      "primaryLanguageCodes": [
-        "en"
-      ]
-    },
-    {
-      "id": "jUz1JWunEeay_g7t4qpRXw",
-      "name": "Math 115 TTH",
-      "courseType": "v2.ondemand",
-      "slug": "math115tth",
-      "primaryLanguageCodes": [
-        "en"
-      ]
-    },
-    {
       "id": "zwqURwiiEeahpQ5cgS1w4w",
       "name": "Supply Chain Logistics",
       "courseType": "v2.ondemand",
@@ -10414,7 +10396,8 @@
       "slug": "mindfulness",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 1766829788
     },
     {
       "id": "qlAYiungEeW83RLVcuc3IQ",
@@ -10683,7 +10666,8 @@
       "slug": "photography-1",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 42813080
     },
     {
       "id": "ix84hqAPEeS1LCIACxcNEQ",
@@ -11354,6 +11338,106 @@
         "en"
       ],
       "size": 266878914
+    },
+    {
+      "id": "SFoKPKjcEeWbLRJn4j8c4Q",
+      "name": "AstroTech: The Science and Technology behind Astronomical Discovery",
+      "courseType": "v2.ondemand",
+      "slug": "astronomy-technology",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 528319219
+    },
+    {
+      "id": "7BnPwFAnEeal6Q45aayEvw",
+      "name": "Social Business Model and Planning for Social Innovation",
+      "courseType": "v2.ondemand",
+      "slug": "social-business-model",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 722095833
+    },
+    {
+      "id": "FmDuCnEzEeWKsgrp3VnvAw",
+      "name": "Ancient Egypt",
+      "courseType": "v2.ondemand",
+      "slug": "ancientegypt",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 627962670
+    },
+    {
+      "id": "BjlSsD4pEeaz7A4rbi9N3w",
+      "name": "Social Norms, Social Change II",
+      "courseType": "v2.ondemand",
+      "slug": "change",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 3224399449
+    },
+    {
+      "id": "uwDWjLu_EeWH_w6eDJDPoQ",
+      "name": "Portfolio Selection and Risk Management",
+      "courseType": "v2.ondemand",
+      "slug": "portfolio-selection-risk-management",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 984258636
+    },
+    {
+      "id": "dLJlLLvTEeWH_w6eDJDPoQ",
+      "name": "Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions",
+      "courseType": "v2.ondemand",
+      "slug": "descriptive-statistics-statistical-distributions-business-application",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 310475731
+    },
+    {
+      "id": "f6s8aXQ3EeWIfhKr_WcYsQ",
+      "name": "Essential Design Principals for Tableau",
+      "courseType": "v2.ondemand",
+      "slug": "dataviz-design",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 372211052
+    },
+    {
+      "id": "hIc_pBqaEeWwrBKfKrqlSQ",
+      "name": "Strategic Innovation for Managers",
+      "courseType": "v2.ondemand",
+      "slug": "strategic-innovation",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 1132665432
+    },
+    {
+      "id": "ZqfR0mMmEeaCYxJIZlTIQQ",
+      "name": "Construction Scheduling",
+      "courseType": "v2.ondemand",
+      "slug": "construction-scheduling",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 2146368333
+    },
+    {
+      "id": "I4RbHTTPEeaU3A4B1dNclw",
+      "name": "Managing Uncertainty in Marketing Analytics",
+      "courseType": "v2.ondemand",
+      "slug": "uncertainty-marketing-decisions",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 289451013
     }
   ]
 }
