@@ -54,6 +54,7 @@ algorithmic-thinking-2
 algorithmic-toolbox
 algorithms
 algorithms-divide-conquer
+algorithms-graphs-data-structures
 algorithms-on-graphs-and-trees
 algorithms-on-strings
 algoritmizacija-vychislenij
@@ -107,8 +108,10 @@ arte-publico-pedagogia
 artinquiry
 arts-culture-innovation
 arts-culture-strategy
+arts-heritage
 astro
 astrobiology
+astrofizika
 astronomy
 astronomy-technology
 atc21s
@@ -117,6 +120,7 @@ audio-signal-processing
 augmented-reality
 aulaconstructivista
 autism-spectrum-disorder
+autoliderazgo-gestion-emociones
 automata-system-validation
 autoridad
 bacteria
@@ -170,6 +174,7 @@ bulgakov-master-i-margarita
 business
 business-accounting-1
 business-accounting-2
+business-analytics-decision-making
 business-chinese
 business-data
 business-english-for-cross-cultural-communication
@@ -191,6 +196,7 @@ c-plus-plus-b
 cad
 cad-bim-shiwu
 cad3d
+caijing-yingyu
 calculo-1
 calculo-2
 calculo-3
@@ -235,6 +241,7 @@ chronic-pain
 chuangxin-siwei
 chuangyi-chuangxin-biange
 ciencia
+ciencia-computacao-python-conceitos
 citizenjournalism
 clasificacion-imagenes
 classical-composition
@@ -270,6 +277,7 @@ communication
 communication-in-the-workplace
 communication-in-the-workplacees
 communication-k12-math
+communication-skills
 community-change-public-health
 como-autoconstruir-tu-vivienda
 como-financiar-mi-empresa
@@ -413,6 +421,7 @@ dog-emotion-and-cognition
 dopage
 doping
 droits-de-lhomme
+drug-development
 drug-discovery
 dsp
 duke-behavioral-finance
@@ -580,6 +589,7 @@ fundamentals-corporate-finance
 fundamentals-of-graphic-design
 fundamentals-of-management
 fundamentals-of-managementes
+fundamentals-of-public-speaking
 fundamentalsofrevenuemanagement
 fundamentos-finanzas-empresariales
 fundamentosdeandroid
@@ -625,9 +635,11 @@ gestao-escolar
 gestion-de-productividad
 gestion-de-proyectos
 gestion-eau
+gestion-empresa-familiar
 gestion-marca-producto
 gestion-organizaciones-efectivas
 gestionar-personas
+gestiondeltalento
 gestionempresarialpyme
 get-active
 get-hired
@@ -661,6 +673,7 @@ graphtheory
 greening-the-economy
 gt-circuits-2
 gte-sustainable-cities
+guanli-lingdao-yingyu
 guitar
 guitarra
 habilidades-negociacion
@@ -675,12 +688,14 @@ health-che
 health-for-all
 health-informatics-professional
 healthcare-delivery-providers
+healthcare-innovation
 healthcare-marketplace
 healthcare-medical-technology
 healthcarejobs
 healthliteracy
 hebrew-poetry
 hesap-calculus-dersi
+hi-five-clinical
 high-performing-teams
 high-throughput
 hipython
@@ -809,6 +824,7 @@ investment-management
 investment-philosophy
 investment-returns-long-run
 investments
+investments-applications
 investments-fundamentals
 ios-avancado
 ios-jogos
@@ -890,6 +906,7 @@ liderazgo-desafios-complejos
 liderazgo-educativo
 life-in-soil
 life-on-other-planets
+linear-models-2
 linear-regression-model
 linearalgebra1
 linearalgebra2
@@ -1154,6 +1171,7 @@ population-health
 portfolio-management
 portfolio-risk-management
 portfolio-selection-risk-management
+posicionamiento
 positioning
 positive-psychology
 postharvest
@@ -1215,6 +1233,7 @@ psychology-science-intro
 psykhodyahnostyka
 psykhologiya-truda
 public-economics
+public-health-depression
 public-policy
 public-relations
 public-speaking
@@ -1233,6 +1252,7 @@ quantitative-formal-modeling-1
 quantitative-methods
 questionnaire-design
 quimica-en-mi-casa
+r-packages
 r-programming
 r-programming-environment
 rails-with-active-record
@@ -1253,6 +1273,7 @@ redes-sociales-caracteristicas
 redes-sociales-estrategias
 regression-modeling-practice
 regression-models
+relationship-managment
 relativita-meccanica-quantistica
 relativity-theory
 renewable-energy
@@ -1323,6 +1344,7 @@ sheng-wu-xin-xi-xue
 shengming-kexue-fazhanshi
 shengwu-huaxue
 shengwu-yanhua
+shichang-yingxiao-yingyu
 shipin-anquan
 shuju-jiegou-suanfa
 single-page-web-apps-with-angularjs

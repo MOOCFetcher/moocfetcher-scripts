@@ -11438,6 +11438,123 @@
         "en"
       ],
       "size": 289451013
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "hEMZ5zJuEeaGtRI0HQleow",
+      "slug": "hi-five-clinical",
+      "name": "HI-FIVE: Health Informatics For Innovation, Value & Enrichment (Clinical Perspective)",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "gni-lkeREeaNmhKFnqHOVQ",
+      "slug": "investments-applications",
+      "name": "Investments II: Lessons and Applications",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "s6_Z4SBAEeWcQw5YiljpGw",
+      "slug": "public-health-depression",
+      "name": "Major Depression in the Population: A Public Health Approach",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "pW_Of3vUEeaCZBIelfdoiQ",
+      "slug": "drug-development",
+      "name": "Drug Development",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "qLtWVV2nEea6OBIvyzcuGw",
+      "slug": "fundamentals-of-public-speaking",
+      "name": "Fundamentals of Public Speaking",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "wQ9FD3b0EeaahA7WQe-h_w",
+      "slug": "algorithms-graphs-data-structures",
+      "name": "Graph Search, Shortest Paths, and Data Structures",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "oeHwKhiDEea2Gw5ROLcooQ",
+      "slug": "business-analytics-decision-making",
+      "name": "Business Analytics for Decision Making",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "ouoDtVM7EeaUyhJ5kBsouw",
+      "slug": "linear-models-2",
+      "name": "Advanced Linear Models for Data Science 2: Statistical Linear Models",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "name": "Communication Skills for University Success",
+      "id": "8gkNsucfEeW1aA7Yx3Citw",
+      "slug": "communication-skills",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "XdQwhCQcEeapkBKJ0Y_FqQ",
+      "slug": "arts-heritage",
+      "name": "Arts and Heritage Management",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "1pTpF9v9EeWcBg435JRSdw",
+      "slug": "healthcare-innovation",
+      "name": "Healthcare Innovation and Entrepreneurship",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "b4OfB0R4EeaL3g5tgt_P6Q",
+      "slug": "r-packages",
+      "name": "Building R Packages",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "sRAtPGhtEeab8hJTez1v6w",
+      "slug": "relationship-managment",
+      "name": "Relationship Management ",
+      "primaryLanguageCodes": [
+        "en"
+      ]
     }
   ]
 }
