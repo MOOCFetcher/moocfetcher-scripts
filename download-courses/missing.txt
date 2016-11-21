@@ -1,12 +1,1 @@
-behavioralgenetics
-computer-architecture-fundamentals
-film-images
-hpv-oral-throat-cancer
-humanrights
-ict-primary-education
 ideas
-mandarin-chinese-2
-presentation-skills
-probabilistic-graphical-models-2-inference
-quantitative-model-checking
-wireless-communications

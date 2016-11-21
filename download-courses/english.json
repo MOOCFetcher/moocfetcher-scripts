@@ -11570,103 +11570,114 @@
       "size": 34110445
     },
     {
-      "courseType": "v2.ondemand",
       "id": "Os1G1HbSEeaqVg4Elh7mAQ",
-      "slug": "mandarin-chinese-2",
       "name": "Mandarin Chinese 2: Chinese for Beginners",
+      "courseType": "v2.ondemand",
+      "slug": "mandarin-chinese-2",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 186613866
     },
     {
-      "courseType": "v2.ondemand",
       "id": "ZearHHitEeaYNAqJlKFl8Q",
-      "slug": "probabilistic-graphical-models-2-inference",
       "name": "Probabilistic Graphical Models 2: Inference",
+      "courseType": "v2.ondemand",
+      "slug": "probabilistic-graphical-models-2-inference",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 584404323
     },
     {
-      "courseType": "v2.ondemand",
       "id": "sCnDCtBhEeWFqw71fuUDrw",
-      "slug": "ict-primary-education",
       "name": "ICT in Primary Education: Transforming children's learning across the curriculum",
+      "courseType": "v2.ondemand",
+      "slug": "ict-primary-education",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 538488991
     },
     {
-      "courseType": "v2.ondemand",
       "id": "mG_-am-IEeWbbw5cIAKQrw",
-      "slug": "quantitative-model-checking",
       "name": "Quantitative Model Checking",
+      "courseType": "v2.ondemand",
+      "slug": "quantitative-model-checking",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 450535189
     },
     {
-      "courseType": "v2.ondemand",
       "id": "K_-FlpkfEeWjfxIrc5BW9Q",
-      "slug": "computer-architecture-fundamentals",
       "name": "Fundamentals of Computer Architecture",
+      "courseType": "v2.ondemand",
+      "slug": "computer-architecture-fundamentals",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 982169311
     },
     {
-      "courseType": "v2.ondemand",
       "id": "FF_W8C0fEea8-BJ7AvBU3Q",
-      "slug": "wireless-communications",
       "name": "Wireless Communications for Everybody",
+      "courseType": "v2.ondemand",
+      "slug": "wireless-communications",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 658781251
     },
     {
-      "courseType": "v2.ondemand",
       "id": "UMooQlv8EeWzUQ41NnCQkQ",
-      "slug": "film-images",
       "name": "Film, Images & Historical Interpretation in the 20th Century: The Camera Never Lies",
+      "courseType": "v2.ondemand",
+      "slug": "film-images",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 1124659926
     },
     {
-      "courseType": "v2.ondemand",
-      "name": "Introduction to Human Behavioral Genetics",
       "id": "EmkjvJ-SEeW_wArffOXkOw",
+      "name": "Introduction to Human Behavioral Genetics",
+      "courseType": "v2.ondemand",
       "slug": "behavioralgenetics",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 2296557110
     },
     {
-      "courseType": "v2.ondemand",
       "id": "q3gL1le_EeaUyhJ5kBsouw",
-      "slug": "humanrights",
       "name": "Human Rights for Open Societies",
+      "courseType": "v2.ondemand",
+      "slug": "humanrights",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 431347698
     },
     {
-      "courseType": "v2.ondemand",
       "id": "KlAJ6oysEeW79RIwiAyGoQ",
-      "slug": "presentation-skills",
       "name": "Successful Presentation",
+      "courseType": "v2.ondemand",
+      "slug": "presentation-skills",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 594132821
     },
     {
-      "courseType": "v2.ondemand",
       "id": "-Ph0DnwyEeaA7w6yFE2sWQ",
-      "slug": "hpv-oral-throat-cancer",
       "name": "HPV-Associated Oral and Throat Cancer: What You Need to Know",
+      "courseType": "v2.ondemand",
+      "slug": "hpv-oral-throat-cancer",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 77617237
     }
   ]
 }
