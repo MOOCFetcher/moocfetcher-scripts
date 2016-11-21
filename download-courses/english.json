@@ -11440,118 +11440,230 @@
       "size": 289451013
     },
     {
-      "courseType": "v2.ondemand",
       "id": "hEMZ5zJuEeaGtRI0HQleow",
-      "slug": "hi-five-clinical",
       "name": "HI-FIVE: Health Informatics For Innovation, Value & Enrichment (Clinical Perspective)",
+      "courseType": "v2.ondemand",
+      "slug": "hi-five-clinical",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 2527239866
     },
     {
-      "courseType": "v2.ondemand",
       "id": "gni-lkeREeaNmhKFnqHOVQ",
-      "slug": "investments-applications",
       "name": "Investments II: Lessons and Applications",
+      "courseType": "v2.ondemand",
+      "slug": "investments-applications",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 2197684520
     },
     {
-      "courseType": "v2.ondemand",
       "id": "s6_Z4SBAEeWcQw5YiljpGw",
-      "slug": "public-health-depression",
       "name": "Major Depression in the Population: A Public Health Approach",
+      "courseType": "v2.ondemand",
+      "slug": "public-health-depression",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 392435578
     },
     {
-      "courseType": "v2.ondemand",
       "id": "pW_Of3vUEeaCZBIelfdoiQ",
-      "slug": "drug-development",
       "name": "Drug Development",
+      "courseType": "v2.ondemand",
+      "slug": "drug-development",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 448546872
     },
     {
-      "courseType": "v2.ondemand",
       "id": "qLtWVV2nEea6OBIvyzcuGw",
-      "slug": "fundamentals-of-public-speaking",
       "name": "Fundamentals of Public Speaking",
+      "courseType": "v2.ondemand",
+      "slug": "fundamentals-of-public-speaking",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 686371585
     },
     {
-      "courseType": "v2.ondemand",
       "id": "wQ9FD3b0EeaahA7WQe-h_w",
-      "slug": "algorithms-graphs-data-structures",
       "name": "Graph Search, Shortest Paths, and Data Structures",
+      "courseType": "v2.ondemand",
+      "slug": "algorithms-graphs-data-structures",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 760676416
     },
     {
-      "courseType": "v2.ondemand",
       "id": "oeHwKhiDEea2Gw5ROLcooQ",
-      "slug": "business-analytics-decision-making",
       "name": "Business Analytics for Decision Making",
+      "courseType": "v2.ondemand",
+      "slug": "business-analytics-decision-making",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 438809982
     },
     {
-      "courseType": "v2.ondemand",
       "id": "ouoDtVM7EeaUyhJ5kBsouw",
-      "slug": "linear-models-2",
       "name": "Advanced Linear Models for Data Science 2: Statistical Linear Models",
+      "courseType": "v2.ondemand",
+      "slug": "linear-models-2",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 205956069
     },
     {
-      "courseType": "v2.ondemand",
-      "name": "Communication Skills for University Success",
       "id": "8gkNsucfEeW1aA7Yx3Citw",
+      "name": "Communication Skills for University Success",
+      "courseType": "v2.ondemand",
       "slug": "communication-skills",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 811041405
     },
     {
-      "courseType": "v2.ondemand",
       "id": "XdQwhCQcEeapkBKJ0Y_FqQ",
-      "slug": "arts-heritage",
       "name": "Arts and Heritage Management",
+      "courseType": "v2.ondemand",
+      "slug": "arts-heritage",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 1151954992
     },
     {
-      "courseType": "v2.ondemand",
       "id": "1pTpF9v9EeWcBg435JRSdw",
-      "slug": "healthcare-innovation",
       "name": "Healthcare Innovation and Entrepreneurship",
+      "courseType": "v2.ondemand",
+      "slug": "healthcare-innovation",
       "primaryLanguageCodes": [
         "en"
-      ]
+      ],
+      "size": 1096211012
     },
     {
-      "courseType": "v2.ondemand",
       "id": "b4OfB0R4EeaL3g5tgt_P6Q",
-      "slug": "r-packages",
       "name": "Building R Packages",
+      "courseType": "v2.ondemand",
+      "slug": "r-packages",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 12977410
+    },
+    {
+      "id": "sRAtPGhtEeab8hJTez1v6w",
+      "name": "Relationship Management ",
+      "courseType": "v2.ondemand",
+      "slug": "relationship-managment",
+      "primaryLanguageCodes": [
+        "en"
+      ],
+      "size": 34110445
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "Os1G1HbSEeaqVg4Elh7mAQ",
+      "slug": "mandarin-chinese-2",
+      "name": "Mandarin Chinese 2: Chinese for Beginners",
       "primaryLanguageCodes": [
         "en"
       ]
     },
     {
       "courseType": "v2.ondemand",
-      "id": "sRAtPGhtEeab8hJTez1v6w",
-      "slug": "relationship-managment",
-      "name": "Relationship Management ",
+      "id": "ZearHHitEeaYNAqJlKFl8Q",
+      "slug": "probabilistic-graphical-models-2-inference",
+      "name": "Probabilistic Graphical Models 2: Inference",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "sCnDCtBhEeWFqw71fuUDrw",
+      "slug": "ict-primary-education",
+      "name": "ICT in Primary Education: Transforming children's learning across the curriculum",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "mG_-am-IEeWbbw5cIAKQrw",
+      "slug": "quantitative-model-checking",
+      "name": "Quantitative Model Checking",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "K_-FlpkfEeWjfxIrc5BW9Q",
+      "slug": "computer-architecture-fundamentals",
+      "name": "Fundamentals of Computer Architecture",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "FF_W8C0fEea8-BJ7AvBU3Q",
+      "slug": "wireless-communications",
+      "name": "Wireless Communications for Everybody",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "UMooQlv8EeWzUQ41NnCQkQ",
+      "slug": "film-images",
+      "name": "Film, Images & Historical Interpretation in the 20th Century: The Camera Never Lies",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "name": "Introduction to Human Behavioral Genetics",
+      "id": "EmkjvJ-SEeW_wArffOXkOw",
+      "slug": "behavioralgenetics",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "q3gL1le_EeaUyhJ5kBsouw",
+      "slug": "humanrights",
+      "name": "Human Rights for Open Societies",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "KlAJ6oysEeW79RIwiAyGoQ",
+      "slug": "presentation-skills",
+      "name": "Successful Presentation",
+      "primaryLanguageCodes": [
+        "en"
+      ]
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "-Ph0DnwyEeaA7w6yFE2sWQ",
+      "slug": "hpv-oral-throat-cancer",
+      "name": "HPV-Associated Oral and Throat Cancer: What You Need to Know",
       "primaryLanguageCodes": [
         "en"
       ]
