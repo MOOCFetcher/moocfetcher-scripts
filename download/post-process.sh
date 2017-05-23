@@ -7,5 +7,5 @@ moocfetcher us
 moocfetcher fc -d /Volumes/courses
 
 # Update annotated CSV file
-csvjoin --outer -c "Folder on Disk" courses.csv courses-annotated.csv | csvcut -c 1,2,3,7,8,9 | csvsort -c 4,1 |  sponge courses-annotated.csv
+csvjoin --snifflimit 0 --delimiter "," --quotechar "\"" --outer -c "Folder on Disk" courses.csv courses-annotated.csv | csvcut  --delimiter "," --quotechar "\"" -c 1,2,3,7,8,9 | csvsort --delimiter "," --quotechar "\"" -c 4,1 | sponge courses-annotated.csv
 
