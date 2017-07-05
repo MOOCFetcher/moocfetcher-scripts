@@ -9,3 +9,5 @@ moocfetcher fc -d /Volumes/courses
 # Update annotated CSV file
 csvjoin --delimiter "," --quotechar "\"" --outer -c "Folder on Disk" courses.csv courses-annotated.csv | csvcut  --delimiter "," --quotechar "\"" -c 1,2,3,7,8,9 | csvsort --delimiter "," --quotechar "\"" -c 4,1 | sponge courses-annotated.csv
 
+# Generate excel file
+python csv2excel.py
