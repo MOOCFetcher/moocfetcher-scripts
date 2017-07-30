@@ -10,7 +10,7 @@ aws s3 ls s3://moocfetcher-course-archive/coursera/ | grep PRE | awk '{print $2}
 echo "`wc -l < downloaded_s3.txt` courses in English downloaded in S3"
 comm -23 english.txt downloaded_s3.txt > missing_s3.txt
 echo "`wc -l < missing_s3.txt` courses in English missing in S3"
-ls -1 /Volumes/courses | sort > downloaded_nas.txt
+ls -1 $COURSE_VOLUME | sort > downloaded_nas.txt
 # echo "`wc -l < downloaded_s3.txt` courses in English downloaded in NAS"
 comm -23 english.txt downloaded_nas.txt > missing_nas.txt
 echo "`wc -l < missing_nas.txt` courses in English missing in NAS"
