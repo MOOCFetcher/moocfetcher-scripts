@@ -1,5 +1,5 @@
 #!/bin/sh
-
+AWS_PROFILE=moocfetcher
 # Update course sizes
 moocfetcher us
 
