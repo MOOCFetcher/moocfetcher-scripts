@@ -1,5 +1,5 @@
 #!/bin/bash
-AWS_PROFILE=moocfetcher
+export AWS_PROFILE=moocfetcher
 aws s3 cp --quiet s3://moocfetcher/coursera/all.json .
 echo "`cat all.json | jq '.courses | map(select(.courseType == "v2.ondemand")) | .[] | .slug ' | wc -l` courses total"
 aws s3 cp --quiet s3://moocfetcher/coursera/ondemand/launched.json .
