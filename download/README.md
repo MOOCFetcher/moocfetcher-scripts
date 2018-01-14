@@ -9,6 +9,7 @@ Other dependencies include:
 
 * moreutils
 * jq
+* pup
 
 #### Setup virtualenv w/ Python 3
 ```
