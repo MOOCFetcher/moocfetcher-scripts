@@ -10,6 +10,7 @@ Other dependencies include:
 * moreutils
 * jq
 * pup
+* `moocfetcher` and `fillinfo` tools (written in Go)
 
 #### Setup virtualenv w/ Python 3
 ```
