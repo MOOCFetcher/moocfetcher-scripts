@@ -39,7 +39,7 @@ func main() {
 		}
 
 		// Run extraction script w/ URL
-		// fmt.Fprintf(os.Stderr, "Extracting info for: %s\n", record[2])
+		fmt.Fprintf(os.Stderr, "Extracting info for: %s\n", record[2])
 		cmd := exec.Command("bash", "./extract_info.sh", record[2])
 		out, err := cmd.Output()
 		// Ensure there is no error
