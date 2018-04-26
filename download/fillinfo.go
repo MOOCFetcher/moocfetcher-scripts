@@ -3,6 +3,7 @@ package main
 import (
 	"bytes"
 	"encoding/csv"
+	"flag"
 	"fmt"
 	"io"
 	"io/ioutil"
@@ -14,6 +15,10 @@ import (
 )
 
 func main() {
+	var markUnavailable = flag.Bool("u", false, "Mark unavailable courses in the CSV file")
+	flag.Parse()
+
+
 	// Read CSV from stdin.
 	in, err := ioutil.ReadFile("courses-annotated.csv")
 	if err != nil {
@@ -45,6 +50,10 @@ func main() {
 		// Ensure there is no error
 		if err != nil || len(out) == 0 {
 			fmt.Fprintf(os.Stderr, "Error extracting %s: %s", record[2], err)
+			// write "Unavailable" into the Field record.
+			if *markUnavailable {
+				record[3] = "Unavailable"
+			}
 			w.Write(record)
 			continue
 		}
